@@ -1,0 +1,3170 @@
+﻿PokerStars Hand #161248135942: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level I (10/20) - 2016/11/11 17:24:28 BRT [2016/11/11 14:24:28 ET]
+Table '1724073465 1' 9-max Seat #1 is the button
+Seat 1: Realdyralei (1500 in chips) 
+Seat 2: johntheslon (1500 in chips) 
+Seat 3: cbill_gr (1500 in chips) 
+Seat 4: prizrak play (1500 in chips) 
+Seat 5: wisg33 (1500 in chips) 
+Seat 6: leo.criv (1500 in chips) 
+Seat 7: walerson47 (1500 in chips) 
+Seat 8: Luiz F. 1977 (1500 in chips) 
+Seat 9: MaltoHumor (1500 in chips) 
+johntheslon: posts small blind 10
+cbill_gr: posts big blind 20
+*** HOLE CARDS ***
+Dealt to wisg33 [Ac Qs]
+prizrak play: folds 
+wisg33: raises 40 to 60
+leo.criv: calls 60
+walerson47: folds 
+Luiz F. 1977: folds 
+MaltoHumor: folds 
+Realdyralei: folds 
+johntheslon: folds 
+cbill_gr: folds 
+*** FLOP *** [Kc Jh 5d]
+wisg33: checks 
+leo.criv: checks 
+*** TURN *** [Kc Jh 5d] [8c]
+wisg33: checks 
+leo.criv: bets 75
+wisg33: folds 
+Uncalled bet (75) returned to leo.criv
+leo.criv collected 150 from pot
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Board [Kc Jh 5d 8c]
+Seat 1: Realdyralei (button) folded before Flop (didn't bet)
+Seat 2: johntheslon (small blind) folded before Flop
+Seat 3: cbill_gr (big blind) folded before Flop
+Seat 4: prizrak play folded before Flop (didn't bet)
+Seat 5: wisg33 folded on the Turn
+Seat 6: leo.criv collected (150)
+Seat 7: walerson47 folded before Flop (didn't bet)
+Seat 8: Luiz F. 1977 folded before Flop (didn't bet)
+Seat 9: MaltoHumor folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #161248177336: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level I (10/20) - 2016/11/11 17:25:17 BRT [2016/11/11 14:25:17 ET]
+Table '1724073465 1' 9-max Seat #2 is the button
+Seat 1: Realdyralei (1500 in chips) 
+Seat 2: johntheslon (1490 in chips) 
+Seat 3: cbill_gr (1480 in chips) 
+Seat 4: prizrak play (1500 in chips) 
+Seat 5: wisg33 (1440 in chips) 
+Seat 6: leo.criv (1590 in chips) 
+Seat 7: walerson47 (1500 in chips) 
+Seat 8: Luiz F. 1977 (1500 in chips) 
+Seat 9: MaltoHumor (1500 in chips) 
+cbill_gr: posts small blind 10
+prizrak play: posts big blind 20
+*** HOLE CARDS ***
+Dealt to wisg33 [9h 7c]
+wisg33: folds 
+leo.criv: folds 
+walerson47: raises 40 to 60
+Luiz F. 1977: folds 
+MaltoHumor: folds 
+Realdyralei: folds 
+johntheslon: folds 
+cbill_gr: folds 
+prizrak play: folds 
+Uncalled bet (40) returned to walerson47
+walerson47 collected 50 from pot
+walerson47: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: Realdyralei folded before Flop (didn't bet)
+Seat 2: johntheslon (button) folded before Flop (didn't bet)
+Seat 3: cbill_gr (small blind) folded before Flop
+Seat 4: prizrak play (big blind) folded before Flop
+Seat 5: wisg33 folded before Flop (didn't bet)
+Seat 6: leo.criv folded before Flop (didn't bet)
+Seat 7: walerson47 collected (50)
+Seat 8: Luiz F. 1977 folded before Flop (didn't bet)
+Seat 9: MaltoHumor folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #161248204479: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level I (10/20) - 2016/11/11 17:25:49 BRT [2016/11/11 14:25:49 ET]
+Table '1724073465 1' 9-max Seat #3 is the button
+Seat 1: Realdyralei (1500 in chips) 
+Seat 2: johntheslon (1490 in chips) 
+Seat 3: cbill_gr (1470 in chips) 
+Seat 4: prizrak play (1480 in chips) 
+Seat 5: wisg33 (1440 in chips) 
+Seat 6: leo.criv (1590 in chips) 
+Seat 7: walerson47 (1530 in chips) 
+Seat 8: Luiz F. 1977 (1500 in chips) 
+Seat 9: MaltoHumor (1500 in chips) 
+prizrak play: posts small blind 10
+wisg33: posts big blind 20
+*** HOLE CARDS ***
+Dealt to wisg33 [6h 7d]
+leo.criv: folds 
+walerson47: folds 
+Luiz F. 1977: folds 
+MaltoHumor: folds 
+Realdyralei: raises 40 to 60
+johntheslon: folds 
+cbill_gr: folds 
+prizrak play: folds 
+wisg33: folds 
+Uncalled bet (40) returned to Realdyralei
+Realdyralei collected 50 from pot
+Realdyralei: doesn't show hand 
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: Realdyralei collected (50)
+Seat 2: johntheslon folded before Flop (didn't bet)
+Seat 3: cbill_gr (button) folded before Flop (didn't bet)
+Seat 4: prizrak play (small blind) folded before Flop
+Seat 5: wisg33 (big blind) folded before Flop
+Seat 6: leo.criv folded before Flop (didn't bet)
+Seat 7: walerson47 folded before Flop (didn't bet)
+Seat 8: Luiz F. 1977 folded before Flop (didn't bet)
+Seat 9: MaltoHumor folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #161248220996: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level I (10/20) - 2016/11/11 17:26:08 BRT [2016/11/11 14:26:08 ET]
+Table '1724073465 1' 9-max Seat #4 is the button
+Seat 1: Realdyralei (1530 in chips) 
+Seat 2: johntheslon (1490 in chips) 
+Seat 3: cbill_gr (1470 in chips) 
+Seat 4: prizrak play (1470 in chips) 
+Seat 5: wisg33 (1420 in chips) 
+Seat 6: leo.criv (1590 in chips) 
+Seat 7: walerson47 (1530 in chips) 
+Seat 8: Luiz F. 1977 (1500 in chips) 
+Seat 9: MaltoHumor (1500 in chips) 
+wisg33: posts small blind 10
+leo.criv: posts big blind 20
+*** HOLE CARDS ***
+Dealt to wisg33 [6h 9c]
+walerson47: raises 60 to 80
+Luiz F. 1977: folds 
+MaltoHumor: folds 
+Realdyralei: raises 170 to 250
+johntheslon: folds 
+cbill_gr: folds 
+prizrak play: folds 
+wisg33: folds 
+leo.criv: folds 
+walerson47: calls 170
+*** FLOP *** [Jh 4s 2h]
+walerson47: checks 
+Realdyralei: bets 397
+walerson47: calls 397
+*** TURN *** [Jh 4s 2h] [5s]
+walerson47: checks 
+Realdyralei: bets 883 and is all-in
+walerson47: calls 883 and is all-in
+*** RIVER *** [Jh 4s 2h 5s] [6s]
+*** SHOW DOWN ***
+walerson47: shows [Ah 8h] (high card Ace)
+Realdyralei: shows [Kc Kd] (a pair of Kings)
+Realdyralei collected 3090 from pot
+walerson47 finished the tournament in 9th place
+*** SUMMARY ***
+Total pot 3090 | Rake 0 
+Board [Jh 4s 2h 5s 6s]
+Seat 1: Realdyralei showed [Kc Kd] and won (3090) with a pair of Kings
+Seat 2: johntheslon folded before Flop (didn't bet)
+Seat 3: cbill_gr folded before Flop (didn't bet)
+Seat 4: prizrak play (button) folded before Flop (didn't bet)
+Seat 5: wisg33 (small blind) folded before Flop
+Seat 6: leo.criv (big blind) folded before Flop
+Seat 7: walerson47 showed [Ah 8h] and lost with high card Ace
+Seat 8: Luiz F. 1977 folded before Flop (didn't bet)
+Seat 9: MaltoHumor folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #161248270526: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level I (10/20) - 2016/11/11 17:27:07 BRT [2016/11/11 14:27:07 ET]
+Table '1724073465 1' 9-max Seat #5 is the button
+Seat 1: Realdyralei (3090 in chips) 
+Seat 2: johntheslon (1490 in chips) 
+Seat 3: cbill_gr (1470 in chips) 
+Seat 4: prizrak play (1470 in chips) 
+Seat 5: wisg33 (1410 in chips) 
+Seat 6: leo.criv (1570 in chips) 
+Seat 8: Luiz F. 1977 (1500 in chips) 
+Seat 9: MaltoHumor (1500 in chips) 
+leo.criv: posts small blind 10
+Luiz F. 1977: posts big blind 20
+*** HOLE CARDS ***
+Dealt to wisg33 [7c 9d]
+MaltoHumor: folds 
+Realdyralei: folds 
+johntheslon: folds 
+cbill_gr: folds 
+prizrak play: folds 
+wisg33: folds 
+leo.criv: calls 10
+Luiz F. 1977: raises 20 to 40
+leo.criv: folds 
+Uncalled bet (20) returned to Luiz F. 1977
+Luiz F. 1977 collected 40 from pot
+Luiz F. 1977: doesn't show hand 
+*** SUMMARY ***
+Total pot 40 | Rake 0 
+Seat 1: Realdyralei folded before Flop (didn't bet)
+Seat 2: johntheslon folded before Flop (didn't bet)
+Seat 3: cbill_gr folded before Flop (didn't bet)
+Seat 4: prizrak play folded before Flop (didn't bet)
+Seat 5: wisg33 (button) folded before Flop (didn't bet)
+Seat 6: leo.criv (small blind) folded before Flop
+Seat 8: Luiz F. 1977 (big blind) collected (40)
+Seat 9: MaltoHumor folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #161248292475: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level I (10/20) - 2016/11/11 17:27:33 BRT [2016/11/11 14:27:33 ET]
+Table '1724073465 1' 9-max Seat #6 is the button
+Seat 1: Realdyralei (3090 in chips) 
+Seat 2: johntheslon (1490 in chips) 
+Seat 3: cbill_gr (1470 in chips) 
+Seat 4: prizrak play (1470 in chips) 
+Seat 5: wisg33 (1410 in chips) 
+Seat 6: leo.criv (1550 in chips) 
+Seat 8: Luiz F. 1977 (1520 in chips) 
+Seat 9: MaltoHumor (1500 in chips) 
+Luiz F. 1977: posts small blind 10
+MaltoHumor: posts big blind 20
+*** HOLE CARDS ***
+Dealt to wisg33 [Td Kh]
+Realdyralei: folds 
+johntheslon: raises 40 to 60
+cbill_gr: folds 
+prizrak play: folds 
+wisg33: calls 60
+leo.criv: folds 
+Luiz F. 1977: calls 50
+MaltoHumor: folds 
+*** FLOP *** [8s Tc 5c]
+Luiz F. 1977: bets 20
+johntheslon: calls 20
+wisg33: raises 130 to 150
+Luiz F. 1977: calls 130
+johntheslon: folds 
+*** TURN *** [8s Tc 5c] [7c]
+Luiz F. 1977: checks 
+wisg33: checks 
+*** RIVER *** [8s Tc 5c 7c] [5h]
+Luiz F. 1977: checks 
+wisg33: bets 260
+Luiz F. 1977: folds 
+Uncalled bet (260) returned to wisg33
+wisg33 collected 520 from pot
+wisg33: doesn't show hand 
+*** SUMMARY ***
+Total pot 520 | Rake 0 
+Board [8s Tc 5c 7c 5h]
+Seat 1: Realdyralei folded before Flop (didn't bet)
+Seat 2: johntheslon folded on the Flop
+Seat 3: cbill_gr folded before Flop (didn't bet)
+Seat 4: prizrak play folded before Flop (didn't bet)
+Seat 5: wisg33 collected (520)
+Seat 6: leo.criv (button) folded before Flop (didn't bet)
+Seat 8: Luiz F. 1977 (small blind) folded on the River
+Seat 9: MaltoHumor (big blind) folded before Flop
+
+
+
+PokerStars Hand #161248351058: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level I (10/20) - 2016/11/11 17:28:41 BRT [2016/11/11 14:28:41 ET]
+Table '1724073465 1' 9-max Seat #8 is the button
+Seat 1: Realdyralei (3090 in chips) 
+Seat 2: johntheslon (1410 in chips) 
+Seat 3: cbill_gr (1470 in chips) 
+Seat 4: prizrak play (1470 in chips) 
+Seat 5: wisg33 (1720 in chips) 
+Seat 6: leo.criv (1550 in chips) 
+Seat 8: Luiz F. 1977 (1310 in chips) 
+Seat 9: MaltoHumor (1480 in chips) 
+MaltoHumor: posts small blind 10
+Realdyralei: posts big blind 20
+*** HOLE CARDS ***
+Dealt to wisg33 [5s Qh]
+johntheslon: folds 
+cbill_gr: raises 30 to 50
+prizrak play: folds 
+wisg33: folds 
+leo.criv: folds 
+Luiz F. 1977: calls 50
+MaltoHumor: folds 
+Realdyralei: folds 
+*** FLOP *** [7d 8d 9h]
+cbill_gr: checks 
+Luiz F. 1977: bets 60
+cbill_gr: calls 60
+*** TURN *** [7d 8d 9h] [3s]
+cbill_gr: checks 
+Luiz F. 1977: checks 
+*** RIVER *** [7d 8d 9h 3s] [6h]
+johntheslon is sitting out
+cbill_gr: checks 
+Luiz F. 1977: bets 60
+johntheslon has returned
+cbill_gr: calls 60
+*** SHOW DOWN ***
+Luiz F. 1977: shows [8s As] (a pair of Eights)
+cbill_gr: mucks hand 
+Luiz F. 1977 collected 370 from pot
+*** SUMMARY ***
+Total pot 370 | Rake 0 
+Board [7d 8d 9h 3s 6h]
+Seat 1: Realdyralei (big blind) folded before Flop
+Seat 2: johntheslon folded before Flop (didn't bet)
+Seat 3: cbill_gr mucked [4s 4c]
+Seat 4: prizrak play folded before Flop (didn't bet)
+Seat 5: wisg33 folded before Flop (didn't bet)
+Seat 6: leo.criv folded before Flop (didn't bet)
+Seat 8: Luiz F. 1977 (button) showed [8s As] and won (370) with a pair of Eights
+Seat 9: MaltoHumor (small blind) folded before Flop
+
+
+
+PokerStars Hand #161248409307: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level II (15/30) - 2016/11/11 17:29:51 BRT [2016/11/11 14:29:51 ET]
+Table '1724073465 1' 9-max Seat #9 is the button
+Seat 1: Realdyralei (3070 in chips) 
+Seat 2: johntheslon (1410 in chips) 
+Seat 3: cbill_gr (1300 in chips) 
+Seat 4: prizrak play (1470 in chips) 
+Seat 5: wisg33 (1720 in chips) 
+Seat 6: leo.criv (1550 in chips) 
+Seat 8: Luiz F. 1977 (1510 in chips) 
+Seat 9: MaltoHumor (1470 in chips) 
+Realdyralei: posts small blind 15
+johntheslon: posts big blind 30
+*** HOLE CARDS ***
+Dealt to wisg33 [2c 5s]
+cbill_gr: folds 
+prizrak play: folds 
+wisg33: folds 
+leo.criv: folds 
+Luiz F. 1977: folds 
+MaltoHumor: folds 
+Realdyralei: folds 
+Uncalled bet (15) returned to johntheslon
+johntheslon collected 30 from pot
+johntheslon: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Realdyralei (small blind) folded before Flop
+Seat 2: johntheslon (big blind) collected (30)
+Seat 3: cbill_gr folded before Flop (didn't bet)
+Seat 4: prizrak play folded before Flop (didn't bet)
+Seat 5: wisg33 folded before Flop (didn't bet)
+Seat 6: leo.criv folded before Flop (didn't bet)
+Seat 8: Luiz F. 1977 folded before Flop (didn't bet)
+Seat 9: MaltoHumor (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #161248427132: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level II (15/30) - 2016/11/11 17:30:12 BRT [2016/11/11 14:30:12 ET]
+Table '1724073465 1' 9-max Seat #1 is the button
+Seat 1: Realdyralei (3055 in chips) 
+Seat 2: johntheslon (1425 in chips) 
+Seat 3: cbill_gr (1300 in chips) 
+Seat 4: prizrak play (1470 in chips) 
+Seat 5: wisg33 (1720 in chips) 
+Seat 6: leo.criv (1550 in chips) 
+Seat 8: Luiz F. 1977 (1510 in chips) 
+Seat 9: MaltoHumor (1470 in chips) 
+johntheslon: posts small blind 15
+cbill_gr: posts big blind 30
+*** HOLE CARDS ***
+Dealt to wisg33 [Qh 3c]
+prizrak play: raises 30 to 60
+wisg33: folds 
+leo.criv: folds 
+Luiz F. 1977: folds 
+MaltoHumor: folds 
+Realdyralei: folds 
+johntheslon: calls 45
+cbill_gr: folds 
+*** FLOP *** [6c 2h Ks]
+johntheslon: bets 120
+prizrak play: folds 
+Uncalled bet (120) returned to johntheslon
+johntheslon collected 150 from pot
+johntheslon is sitting out
+johntheslon: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Board [6c 2h Ks]
+Seat 1: Realdyralei (button) folded before Flop (didn't bet)
+Seat 2: johntheslon (small blind) collected (150)
+Seat 3: cbill_gr (big blind) folded before Flop
+Seat 4: prizrak play folded on the Flop
+Seat 5: wisg33 folded before Flop (didn't bet)
+Seat 6: leo.criv folded before Flop (didn't bet)
+Seat 8: Luiz F. 1977 folded before Flop (didn't bet)
+Seat 9: MaltoHumor folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #161248464128: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level II (15/30) - 2016/11/11 17:30:55 BRT [2016/11/11 14:30:55 ET]
+Table '1724073465 1' 9-max Seat #2 is the button
+Seat 1: Realdyralei (3055 in chips) 
+Seat 2: johntheslon (1515 in chips) is sitting out
+Seat 3: cbill_gr (1270 in chips) 
+Seat 4: prizrak play (1410 in chips) 
+Seat 5: wisg33 (1720 in chips) 
+Seat 6: leo.criv (1550 in chips) 
+Seat 8: Luiz F. 1977 (1510 in chips) 
+Seat 9: MaltoHumor (1470 in chips) 
+cbill_gr: posts small blind 15
+prizrak play: posts big blind 30
+*** HOLE CARDS ***
+Dealt to wisg33 [Js 8c]
+wisg33: folds 
+leo.criv: folds 
+Luiz F. 1977: folds 
+MaltoHumor: folds 
+Realdyralei: folds 
+johntheslon: folds 
+cbill_gr: folds 
+Uncalled bet (15) returned to prizrak play
+prizrak play collected 30 from pot
+prizrak play: doesn't show hand 
+*** SUMMARY ***
+Total pot 30 | Rake 0 
+Seat 1: Realdyralei folded before Flop (didn't bet)
+Seat 2: johntheslon (button) folded before Flop (didn't bet)
+Seat 3: cbill_gr (small blind) folded before Flop
+Seat 4: prizrak play (big blind) collected (30)
+Seat 5: wisg33 folded before Flop (didn't bet)
+Seat 6: leo.criv folded before Flop (didn't bet)
+Seat 8: Luiz F. 1977 folded before Flop (didn't bet)
+Seat 9: MaltoHumor folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #161248482588: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level II (15/30) - 2016/11/11 17:31:17 BRT [2016/11/11 14:31:17 ET]
+Table '1724073465 1' 9-max Seat #3 is the button
+Seat 1: Realdyralei (3055 in chips) 
+Seat 2: johntheslon (1515 in chips) is sitting out
+Seat 3: cbill_gr (1255 in chips) 
+Seat 4: prizrak play (1425 in chips) 
+Seat 5: wisg33 (1720 in chips) 
+Seat 6: leo.criv (1550 in chips) 
+Seat 8: Luiz F. 1977 (1510 in chips) 
+Seat 9: MaltoHumor (1470 in chips) 
+prizrak play: posts small blind 15
+wisg33: posts big blind 30
+*** HOLE CARDS ***
+Dealt to wisg33 [Jh Ks]
+leo.criv: folds 
+Luiz F. 1977: folds 
+MaltoHumor: folds 
+Realdyralei: folds 
+johntheslon: folds 
+cbill_gr: raises 45 to 75
+prizrak play: calls 60
+wisg33: calls 45
+*** FLOP *** [Tc 6c 4d]
+prizrak play: checks 
+wisg33: checks 
+cbill_gr: checks 
+*** TURN *** [Tc 6c 4d] [9s]
+prizrak play: bets 112
+wisg33: folds 
+cbill_gr: calls 112
+*** RIVER *** [Tc 6c 4d 9s] [Js]
+prizrak play: bets 134
+cbill_gr: calls 134
+*** SHOW DOWN ***
+prizrak play: shows [Th As] (a pair of Tens)
+cbill_gr: mucks hand 
+prizrak play collected 717 from pot
+*** SUMMARY ***
+Total pot 717 | Rake 0 
+Board [Tc 6c 4d 9s Js]
+Seat 1: Realdyralei folded before Flop (didn't bet)
+Seat 2: johntheslon folded before Flop (didn't bet)
+Seat 3: cbill_gr (button) mucked [Kc 9h]
+Seat 4: prizrak play (small blind) showed [Th As] and won (717) with a pair of Tens
+Seat 5: wisg33 (big blind) folded on the Turn
+Seat 6: leo.criv folded before Flop (didn't bet)
+Seat 8: Luiz F. 1977 folded before Flop (didn't bet)
+Seat 9: MaltoHumor folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #161248537862: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level II (15/30) - 2016/11/11 17:32:22 BRT [2016/11/11 14:32:22 ET]
+Table '1724073465 1' 9-max Seat #4 is the button
+Seat 1: Realdyralei (3055 in chips) 
+Seat 2: johntheslon (1515 in chips) is sitting out
+Seat 3: cbill_gr (934 in chips) 
+Seat 4: prizrak play (1821 in chips) 
+Seat 5: wisg33 (1645 in chips) 
+Seat 6: leo.criv (1550 in chips) 
+Seat 8: Luiz F. 1977 (1510 in chips) 
+Seat 9: MaltoHumor (1470 in chips) 
+wisg33: posts small blind 15
+leo.criv: posts big blind 30
+*** HOLE CARDS ***
+Dealt to wisg33 [6d Ks]
+Luiz F. 1977: folds 
+MaltoHumor: folds 
+Realdyralei: folds 
+johntheslon: folds 
+cbill_gr: folds 
+prizrak play: raises 30 to 60
+wisg33: folds 
+leo.criv: calls 30
+*** FLOP *** [Ts 5h 4d]
+leo.criv: checks 
+prizrak play: checks 
+*** TURN *** [Ts 5h 4d] [Js]
+leo.criv: bets 67
+prizrak play: folds 
+Uncalled bet (67) returned to leo.criv
+leo.criv collected 135 from pot
+*** SUMMARY ***
+Total pot 135 | Rake 0 
+Board [Ts 5h 4d Js]
+Seat 1: Realdyralei folded before Flop (didn't bet)
+Seat 2: johntheslon folded before Flop (didn't bet)
+Seat 3: cbill_gr folded before Flop (didn't bet)
+Seat 4: prizrak play (button) folded on the Turn
+Seat 5: wisg33 (small blind) folded before Flop
+Seat 6: leo.criv (big blind) collected (135)
+Seat 8: Luiz F. 1977 folded before Flop (didn't bet)
+Seat 9: MaltoHumor folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #161248580508: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level II (15/30) - 2016/11/11 17:33:04 BRT [2016/11/11 14:33:04 ET]
+Table '1724073465 1' 9-max Seat #5 is the button
+Seat 1: Realdyralei (3055 in chips) 
+Seat 2: johntheslon (1515 in chips) is sitting out
+Seat 3: cbill_gr (934 in chips) 
+Seat 4: prizrak play (1761 in chips) 
+Seat 5: wisg33 (1630 in chips) 
+Seat 6: leo.criv (1625 in chips) 
+Seat 8: Luiz F. 1977 (1510 in chips) 
+Seat 9: MaltoHumor (1470 in chips) 
+leo.criv: posts small blind 15
+Luiz F. 1977: posts big blind 30
+*** HOLE CARDS ***
+Dealt to wisg33 [Td Jh]
+MaltoHumor: folds 
+Realdyralei: calls 30
+johntheslon: folds 
+cbill_gr: folds 
+prizrak play: folds 
+wisg33: calls 30
+leo.criv: calls 15
+Luiz F. 1977: checks 
+*** FLOP *** [9h Kc 5s]
+leo.criv: checks 
+Luiz F. 1977: checks 
+Realdyralei: checks 
+wisg33: checks 
+*** TURN *** [9h Kc 5s] [Kd]
+leo.criv: checks 
+Luiz F. 1977: checks 
+Realdyralei: checks 
+wisg33: checks 
+*** RIVER *** [9h Kc 5s Kd] [6c]
+leo.criv: checks 
+Luiz F. 1977: checks 
+Realdyralei: checks 
+wisg33: checks 
+*** SHOW DOWN ***
+leo.criv: shows [Ah 3c] (a pair of Kings)
+Luiz F. 1977: shows [Ad 2c] (a pair of Kings)
+Realdyralei: shows [7c 7h] (two pair, Kings and Sevens)
+wisg33: mucks hand 
+Realdyralei collected 120 from pot
+*** SUMMARY ***
+Total pot 120 | Rake 0 
+Board [9h Kc 5s Kd 6c]
+Seat 1: Realdyralei showed [7c 7h] and won (120) with two pair, Kings and Sevens
+Seat 2: johntheslon folded before Flop (didn't bet)
+Seat 3: cbill_gr folded before Flop (didn't bet)
+Seat 4: prizrak play folded before Flop (didn't bet)
+Seat 5: wisg33 (button) mucked [Td Jh]
+Seat 6: leo.criv (small blind) showed [Ah 3c] and lost with a pair of Kings
+Seat 8: Luiz F. 1977 (big blind) showed [Ad 2c] and lost with a pair of Kings
+Seat 9: MaltoHumor folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #161248641734: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level II (15/30) - 2016/11/11 17:34:16 BRT [2016/11/11 14:34:16 ET]
+Table '1724073465 1' 9-max Seat #6 is the button
+Seat 1: Realdyralei (3145 in chips) 
+Seat 2: johntheslon (1515 in chips) is sitting out
+Seat 3: cbill_gr (934 in chips) 
+Seat 4: prizrak play (1761 in chips) 
+Seat 5: wisg33 (1600 in chips) 
+Seat 6: leo.criv (1595 in chips) 
+Seat 8: Luiz F. 1977 (1480 in chips) 
+Seat 9: MaltoHumor (1470 in chips) 
+Luiz F. 1977: posts small blind 15
+MaltoHumor: posts big blind 30
+*** HOLE CARDS ***
+Dealt to wisg33 [8s 8d]
+Realdyralei: folds 
+johntheslon: folds 
+cbill_gr: folds 
+prizrak play: folds 
+wisg33: raises 30 to 60
+leo.criv: folds 
+Luiz F. 1977: folds 
+MaltoHumor: folds 
+Uncalled bet (30) returned to wisg33
+wisg33 collected 75 from pot
+wisg33: doesn't show hand 
+*** SUMMARY ***
+Total pot 75 | Rake 0 
+Seat 1: Realdyralei folded before Flop (didn't bet)
+Seat 2: johntheslon folded before Flop (didn't bet)
+Seat 3: cbill_gr folded before Flop (didn't bet)
+Seat 4: prizrak play folded before Flop (didn't bet)
+Seat 5: wisg33 collected (75)
+Seat 6: leo.criv (button) folded before Flop (didn't bet)
+Seat 8: Luiz F. 1977 (small blind) folded before Flop
+Seat 9: MaltoHumor (big blind) folded before Flop
+
+
+
+PokerStars Hand #161248672250: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level III (25/50) - 2016/11/11 17:34:52 BRT [2016/11/11 14:34:52 ET]
+Table '1724073465 1' 9-max Seat #8 is the button
+Seat 1: Realdyralei (3145 in chips) 
+Seat 2: johntheslon (1515 in chips) is sitting out
+Seat 3: cbill_gr (934 in chips) 
+Seat 4: prizrak play (1761 in chips) 
+Seat 5: wisg33 (1645 in chips) 
+Seat 6: leo.criv (1595 in chips) 
+Seat 8: Luiz F. 1977 (1465 in chips) 
+Seat 9: MaltoHumor (1440 in chips) 
+MaltoHumor: posts small blind 25
+Realdyralei: posts big blind 50
+*** HOLE CARDS ***
+Dealt to wisg33 [Kh 2d]
+johntheslon: folds 
+cbill_gr: folds 
+prizrak play: folds 
+wisg33: folds 
+leo.criv: folds 
+Luiz F. 1977: raises 50 to 100
+MaltoHumor: folds 
+Realdyralei: folds 
+Uncalled bet (50) returned to Luiz F. 1977
+Luiz F. 1977 collected 125 from pot
+Luiz F. 1977: doesn't show hand 
+*** SUMMARY ***
+Total pot 125 | Rake 0 
+Seat 1: Realdyralei (big blind) folded before Flop
+Seat 2: johntheslon folded before Flop (didn't bet)
+Seat 3: cbill_gr folded before Flop (didn't bet)
+Seat 4: prizrak play folded before Flop (didn't bet)
+Seat 5: wisg33 folded before Flop (didn't bet)
+Seat 6: leo.criv folded before Flop (didn't bet)
+Seat 8: Luiz F. 1977 (button) collected (125)
+Seat 9: MaltoHumor (small blind) folded before Flop
+
+
+
+PokerStars Hand #161248692755: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level III (25/50) - 2016/11/11 17:35:16 BRT [2016/11/11 14:35:16 ET]
+Table '1724073465 1' 9-max Seat #9 is the button
+Seat 1: Realdyralei (3095 in chips) 
+Seat 2: johntheslon (1515 in chips) is sitting out
+Seat 3: cbill_gr (934 in chips) 
+Seat 4: prizrak play (1761 in chips) 
+Seat 5: wisg33 (1645 in chips) 
+Seat 6: leo.criv (1595 in chips) 
+Seat 8: Luiz F. 1977 (1540 in chips) 
+Seat 9: MaltoHumor (1415 in chips) 
+Realdyralei: posts small blind 25
+johntheslon: posts big blind 50
+*** HOLE CARDS ***
+Dealt to wisg33 [7c 6c]
+cbill_gr: folds 
+prizrak play: folds 
+wisg33: folds 
+leo.criv: raises 50 to 100
+Luiz F. 1977: folds 
+MaltoHumor: folds 
+Realdyralei: folds 
+johntheslon: folds 
+Uncalled bet (50) returned to leo.criv
+leo.criv collected 125 from pot
+*** SUMMARY ***
+Total pot 125 | Rake 0 
+Seat 1: Realdyralei (small blind) folded before Flop
+Seat 2: johntheslon (big blind) folded before Flop
+Seat 3: cbill_gr folded before Flop (didn't bet)
+Seat 4: prizrak play folded before Flop (didn't bet)
+Seat 5: wisg33 folded before Flop (didn't bet)
+Seat 6: leo.criv collected (125)
+Seat 8: Luiz F. 1977 folded before Flop (didn't bet)
+Seat 9: MaltoHumor (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #161248706590: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level III (25/50) - 2016/11/11 17:35:33 BRT [2016/11/11 14:35:33 ET]
+Table '1724073465 1' 9-max Seat #1 is the button
+Seat 1: Realdyralei (3070 in chips) 
+Seat 2: johntheslon (1465 in chips) is sitting out
+Seat 3: cbill_gr (934 in chips) 
+Seat 4: prizrak play (1761 in chips) 
+Seat 5: wisg33 (1645 in chips) 
+Seat 6: leo.criv (1670 in chips) 
+Seat 8: Luiz F. 1977 (1540 in chips) 
+Seat 9: MaltoHumor (1415 in chips) 
+johntheslon: posts small blind 25
+cbill_gr: posts big blind 50
+*** HOLE CARDS ***
+Dealt to wisg33 [4c Tc]
+prizrak play: folds 
+wisg33: folds 
+leo.criv: folds 
+Luiz F. 1977: folds 
+MaltoHumor: folds 
+Realdyralei: folds 
+johntheslon: folds 
+Uncalled bet (25) returned to cbill_gr
+cbill_gr collected 50 from pot
+*** SUMMARY ***
+Total pot 50 | Rake 0 
+Seat 1: Realdyralei (button) folded before Flop (didn't bet)
+Seat 2: johntheslon (small blind) folded before Flop
+Seat 3: cbill_gr (big blind) collected (50)
+Seat 4: prizrak play folded before Flop (didn't bet)
+Seat 5: wisg33 folded before Flop (didn't bet)
+Seat 6: leo.criv folded before Flop (didn't bet)
+Seat 8: Luiz F. 1977 folded before Flop (didn't bet)
+Seat 9: MaltoHumor folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #161248719737: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level III (25/50) - 2016/11/11 17:35:48 BRT [2016/11/11 14:35:48 ET]
+Table '1724073465 1' 9-max Seat #2 is the button
+Seat 1: Realdyralei (3070 in chips) 
+Seat 2: johntheslon (1440 in chips) is sitting out
+Seat 3: cbill_gr (959 in chips) 
+Seat 4: prizrak play (1761 in chips) 
+Seat 5: wisg33 (1645 in chips) 
+Seat 6: leo.criv (1670 in chips) 
+Seat 8: Luiz F. 1977 (1540 in chips) 
+Seat 9: MaltoHumor (1415 in chips) 
+cbill_gr: posts small blind 25
+prizrak play: posts big blind 50
+*** HOLE CARDS ***
+Dealt to wisg33 [Qs Qc]
+wisg33: raises 100 to 150
+leo.criv: folds 
+Luiz F. 1977: folds 
+MaltoHumor: folds 
+Realdyralei: folds 
+johntheslon: folds 
+cbill_gr: folds 
+prizrak play: calls 100
+*** FLOP *** [2h 6d 4c]
+prizrak play: checks 
+wisg33: bets 325
+prizrak play: folds 
+Uncalled bet (325) returned to wisg33
+wisg33 collected 325 from pot
+wisg33: doesn't show hand 
+*** SUMMARY ***
+Total pot 325 | Rake 0 
+Board [2h 6d 4c]
+Seat 1: Realdyralei folded before Flop (didn't bet)
+Seat 2: johntheslon (button) folded before Flop (didn't bet)
+Seat 3: cbill_gr (small blind) folded before Flop
+Seat 4: prizrak play (big blind) folded on the Flop
+Seat 5: wisg33 collected (325)
+Seat 6: leo.criv folded before Flop (didn't bet)
+Seat 8: Luiz F. 1977 folded before Flop (didn't bet)
+Seat 9: MaltoHumor folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #161248747020: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level III (25/50) - 2016/11/11 17:36:20 BRT [2016/11/11 14:36:20 ET]
+Table '1724073465 1' 9-max Seat #3 is the button
+Seat 1: Realdyralei (3070 in chips) 
+Seat 2: johntheslon (1440 in chips) is sitting out
+Seat 3: cbill_gr (934 in chips) 
+Seat 4: prizrak play (1611 in chips) 
+Seat 5: wisg33 (1820 in chips) 
+Seat 6: leo.criv (1670 in chips) 
+Seat 8: Luiz F. 1977 (1540 in chips) 
+Seat 9: MaltoHumor (1415 in chips) 
+prizrak play: posts small blind 25
+wisg33: posts big blind 50
+*** HOLE CARDS ***
+Dealt to wisg33 [Td 7d]
+leo.criv: raises 75 to 125
+Luiz F. 1977: raises 75 to 200
+MaltoHumor: folds 
+Realdyralei: calls 200
+johntheslon: folds 
+cbill_gr: folds 
+prizrak play: folds 
+wisg33: folds 
+leo.criv: calls 75
+*** FLOP *** [2d 2c 5d]
+leo.criv: checks 
+Luiz F. 1977: checks 
+Realdyralei: bets 506
+leo.criv: folds 
+johntheslon has returned
+Luiz F. 1977: calls 506
+*** TURN *** [2d 2c 5d] [3d]
+Luiz F. 1977: checks 
+Realdyralei: checks 
+*** RIVER *** [2d 2c 5d 3d] [4c]
+Luiz F. 1977: bets 834 and is all-in
+Realdyralei: calls 834
+*** SHOW DOWN ***
+Luiz F. 1977: shows [8c 8h] (two pair, Eights and Deuces)
+Realdyralei: shows [Jh Jc] (two pair, Jacks and Deuces)
+Realdyralei collected 3355 from pot
+Luiz F. 1977 finished the tournament in 8th place
+*** SUMMARY ***
+Total pot 3355 | Rake 0 
+Board [2d 2c 5d 3d 4c]
+Seat 1: Realdyralei showed [Jh Jc] and won (3355) with two pair, Jacks and Deuces
+Seat 2: johntheslon folded before Flop (didn't bet)
+Seat 3: cbill_gr (button) folded before Flop (didn't bet)
+Seat 4: prizrak play (small blind) folded before Flop
+Seat 5: wisg33 (big blind) folded before Flop
+Seat 6: leo.criv folded on the Flop
+Seat 8: Luiz F. 1977 showed [8c 8h] and lost with two pair, Eights and Deuces
+Seat 9: MaltoHumor folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #161248798755: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level III (25/50) - 2016/11/11 17:37:21 BRT [2016/11/11 14:37:21 ET]
+Table '1724073465 1' 9-max Seat #4 is the button
+Seat 1: Realdyralei (4885 in chips) 
+Seat 2: johntheslon (1440 in chips) 
+Seat 3: cbill_gr (934 in chips) 
+Seat 4: prizrak play (1586 in chips) 
+Seat 5: wisg33 (1770 in chips) 
+Seat 6: leo.criv (1470 in chips) 
+Seat 9: MaltoHumor (1415 in chips) 
+wisg33: posts small blind 25
+leo.criv: posts big blind 50
+*** HOLE CARDS ***
+Dealt to wisg33 [6c 5c]
+MaltoHumor: folds 
+Realdyralei: folds 
+johntheslon: folds 
+cbill_gr: folds 
+prizrak play: raises 75 to 125
+wisg33: folds 
+leo.criv: folds 
+Uncalled bet (75) returned to prizrak play
+prizrak play collected 125 from pot
+prizrak play: doesn't show hand 
+*** SUMMARY ***
+Total pot 125 | Rake 0 
+Seat 1: Realdyralei folded before Flop (didn't bet)
+Seat 2: johntheslon folded before Flop (didn't bet)
+Seat 3: cbill_gr folded before Flop (didn't bet)
+Seat 4: prizrak play (button) collected (125)
+Seat 5: wisg33 (small blind) folded before Flop
+Seat 6: leo.criv (big blind) folded before Flop
+Seat 9: MaltoHumor folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #161248818903: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level III (25/50) - 2016/11/11 17:37:45 BRT [2016/11/11 14:37:45 ET]
+Table '1724073465 1' 9-max Seat #5 is the button
+Seat 1: Realdyralei (4885 in chips) 
+Seat 2: johntheslon (1440 in chips) 
+Seat 3: cbill_gr (934 in chips) 
+Seat 4: prizrak play (1661 in chips) 
+Seat 5: wisg33 (1745 in chips) 
+Seat 6: leo.criv (1420 in chips) 
+Seat 9: MaltoHumor (1415 in chips) 
+leo.criv: posts small blind 25
+MaltoHumor: posts big blind 50
+*** HOLE CARDS ***
+Dealt to wisg33 [8d 6c]
+Realdyralei: folds 
+johntheslon: raises 75 to 125
+cbill_gr: folds 
+prizrak play: folds 
+wisg33: folds 
+leo.criv: folds 
+MaltoHumor: folds 
+Uncalled bet (75) returned to johntheslon
+johntheslon collected 125 from pot
+johntheslon: doesn't show hand 
+*** SUMMARY ***
+Total pot 125 | Rake 0 
+Seat 1: Realdyralei folded before Flop (didn't bet)
+Seat 2: johntheslon collected (125)
+Seat 3: cbill_gr folded before Flop (didn't bet)
+Seat 4: prizrak play folded before Flop (didn't bet)
+Seat 5: wisg33 (button) folded before Flop (didn't bet)
+Seat 6: leo.criv (small blind) folded before Flop
+Seat 9: MaltoHumor (big blind) folded before Flop
+
+
+
+PokerStars Hand #161248836683: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level III (25/50) - 2016/11/11 17:38:06 BRT [2016/11/11 14:38:06 ET]
+Table '1724073465 1' 9-max Seat #6 is the button
+Seat 1: Realdyralei (4885 in chips) 
+Seat 2: johntheslon (1515 in chips) 
+Seat 3: cbill_gr (934 in chips) 
+Seat 4: prizrak play (1661 in chips) 
+Seat 5: wisg33 (1745 in chips) 
+Seat 6: leo.criv (1395 in chips) 
+Seat 9: MaltoHumor (1365 in chips) 
+MaltoHumor: posts small blind 25
+Realdyralei: posts big blind 50
+*** HOLE CARDS ***
+Dealt to wisg33 [Tc 8h]
+johntheslon: raises 85 to 135
+cbill_gr: folds 
+prizrak play: folds 
+wisg33: folds 
+leo.criv: folds 
+MaltoHumor: folds 
+Realdyralei: folds 
+Uncalled bet (85) returned to johntheslon
+johntheslon collected 125 from pot
+johntheslon: doesn't show hand 
+*** SUMMARY ***
+Total pot 125 | Rake 0 
+Seat 1: Realdyralei (big blind) folded before Flop
+Seat 2: johntheslon collected (125)
+Seat 3: cbill_gr folded before Flop (didn't bet)
+Seat 4: prizrak play folded before Flop (didn't bet)
+Seat 5: wisg33 folded before Flop (didn't bet)
+Seat 6: leo.criv (button) folded before Flop (didn't bet)
+Seat 9: MaltoHumor (small blind) folded before Flop
+
+
+
+PokerStars Hand #161248859726: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level III (25/50) - 2016/11/11 17:38:33 BRT [2016/11/11 14:38:33 ET]
+Table '1724073465 1' 9-max Seat #9 is the button
+Seat 1: Realdyralei (4835 in chips) 
+Seat 2: johntheslon (1590 in chips) 
+Seat 3: cbill_gr (934 in chips) 
+Seat 4: prizrak play (1661 in chips) 
+Seat 5: wisg33 (1745 in chips) 
+Seat 6: leo.criv (1395 in chips) 
+Seat 9: MaltoHumor (1340 in chips) 
+Realdyralei: posts small blind 25
+johntheslon: posts big blind 50
+*** HOLE CARDS ***
+Dealt to wisg33 [4c 8c]
+cbill_gr: raises 100 to 150
+prizrak play: raises 100 to 250
+wisg33: folds 
+leo.criv: folds 
+MaltoHumor: folds 
+Realdyralei: folds 
+johntheslon: folds 
+cbill_gr: calls 100
+*** FLOP *** [7d 3h Ah]
+cbill_gr: checks 
+prizrak play: bets 172
+cbill_gr: calls 172
+*** TURN *** [7d 3h Ah] [Jc]
+cbill_gr: checks 
+prizrak play: bets 275
+cbill_gr: folds 
+Uncalled bet (275) returned to prizrak play
+prizrak play collected 919 from pot
+prizrak play: doesn't show hand 
+*** SUMMARY ***
+Total pot 919 | Rake 0 
+Board [7d 3h Ah Jc]
+Seat 1: Realdyralei (small blind) folded before Flop
+Seat 2: johntheslon (big blind) folded before Flop
+Seat 3: cbill_gr folded on the Turn
+Seat 4: prizrak play collected (919)
+Seat 5: wisg33 folded before Flop (didn't bet)
+Seat 6: leo.criv folded before Flop (didn't bet)
+Seat 9: MaltoHumor (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #161248905736: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level III (25/50) - 2016/11/11 17:39:27 BRT [2016/11/11 14:39:27 ET]
+Table '1724073465 1' 9-max Seat #1 is the button
+Seat 1: Realdyralei (4810 in chips) 
+Seat 2: johntheslon (1540 in chips) 
+Seat 3: cbill_gr (512 in chips) 
+Seat 4: prizrak play (2158 in chips) 
+Seat 5: wisg33 (1745 in chips) 
+Seat 6: leo.criv (1395 in chips) 
+Seat 9: MaltoHumor (1340 in chips) 
+johntheslon: posts small blind 25
+cbill_gr: posts big blind 50
+*** HOLE CARDS ***
+Dealt to wisg33 [6c 5s]
+prizrak play: raises 75 to 125
+wisg33: folds 
+leo.criv: folds 
+MaltoHumor: folds 
+Realdyralei: folds 
+johntheslon: folds 
+cbill_gr: raises 387 to 512 and is all-in
+prizrak play: calls 387
+*** FLOP *** [6d Td Ac]
+*** TURN *** [6d Td Ac] [5h]
+*** RIVER *** [6d Td Ac 5h] [Js]
+*** SHOW DOWN ***
+cbill_gr: shows [Kd Ad] (a pair of Aces)
+prizrak play: shows [9h 9s] (a pair of Nines)
+cbill_gr collected 1049 from pot
+*** SUMMARY ***
+Total pot 1049 | Rake 0 
+Board [6d Td Ac 5h Js]
+Seat 1: Realdyralei (button) folded before Flop (didn't bet)
+Seat 2: johntheslon (small blind) folded before Flop
+Seat 3: cbill_gr (big blind) showed [Kd Ad] and won (1049) with a pair of Aces
+Seat 4: prizrak play showed [9h 9s] and lost with a pair of Nines
+Seat 5: wisg33 folded before Flop (didn't bet)
+Seat 6: leo.criv folded before Flop (didn't bet)
+Seat 9: MaltoHumor folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #161248941786: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level IV (50/100) - 2016/11/11 17:40:10 BRT [2016/11/11 14:40:10 ET]
+Table '1724073465 1' 9-max Seat #2 is the button
+Seat 1: Realdyralei (4810 in chips) 
+Seat 2: johntheslon (1515 in chips) 
+Seat 3: cbill_gr (1049 in chips) 
+Seat 4: prizrak play (1646 in chips) 
+Seat 5: wisg33 (1745 in chips) 
+Seat 6: leo.criv (1395 in chips) 
+Seat 9: MaltoHumor (1340 in chips) 
+cbill_gr: posts small blind 50
+prizrak play: posts big blind 100
+*** HOLE CARDS ***
+Dealt to wisg33 [9s 8d]
+wisg33: folds 
+leo.criv: raises 150 to 250
+MaltoHumor: folds 
+Realdyralei: folds 
+johntheslon: folds 
+cbill_gr: folds 
+prizrak play: folds 
+Uncalled bet (150) returned to leo.criv
+leo.criv collected 250 from pot
+*** SUMMARY ***
+Total pot 250 | Rake 0 
+Seat 1: Realdyralei folded before Flop (didn't bet)
+Seat 2: johntheslon (button) folded before Flop (didn't bet)
+Seat 3: cbill_gr (small blind) folded before Flop
+Seat 4: prizrak play (big blind) folded before Flop
+Seat 5: wisg33 folded before Flop (didn't bet)
+Seat 6: leo.criv collected (250)
+Seat 9: MaltoHumor folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #161248963066: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level IV (50/100) - 2016/11/11 17:40:35 BRT [2016/11/11 14:40:35 ET]
+Table '1724073465 1' 9-max Seat #3 is the button
+Seat 1: Realdyralei (4810 in chips) 
+Seat 2: johntheslon (1515 in chips) 
+Seat 3: cbill_gr (999 in chips) 
+Seat 4: prizrak play (1546 in chips) 
+Seat 5: wisg33 (1745 in chips) 
+Seat 6: leo.criv (1545 in chips) 
+Seat 9: MaltoHumor (1340 in chips) 
+prizrak play: posts small blind 50
+wisg33: posts big blind 100
+*** HOLE CARDS ***
+Dealt to wisg33 [4s 2h]
+leo.criv: folds 
+MaltoHumor: folds 
+Realdyralei: raises 120 to 220
+johntheslon: folds 
+cbill_gr: folds 
+prizrak play: calls 170
+wisg33: folds 
+*** FLOP *** [3s Jc 6d]
+prizrak play: checks 
+Realdyralei: bets 226
+prizrak play: calls 226
+*** TURN *** [3s Jc 6d] [Ad]
+prizrak play: checks 
+Realdyralei: checks 
+*** RIVER *** [3s Jc 6d Ad] [9d]
+prizrak play: bets 496
+Realdyralei: calls 496
+*** SHOW DOWN ***
+prizrak play: shows [6s 6h] (three of a kind, Sixes)
+Realdyralei: mucks hand 
+prizrak play collected 1984 from pot
+*** SUMMARY ***
+Total pot 1984 | Rake 0 
+Board [3s Jc 6d Ad 9d]
+Seat 1: Realdyralei mucked [As Tc]
+Seat 2: johntheslon folded before Flop (didn't bet)
+Seat 3: cbill_gr (button) folded before Flop (didn't bet)
+Seat 4: prizrak play (small blind) showed [6s 6h] and won (1984) with three of a kind, Sixes
+Seat 5: wisg33 (big blind) folded before Flop
+Seat 6: leo.criv folded before Flop (didn't bet)
+Seat 9: MaltoHumor folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #161249010311: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level IV (50/100) - 2016/11/11 17:41:31 BRT [2016/11/11 14:41:31 ET]
+Table '1724073465 1' 9-max Seat #4 is the button
+Seat 1: Realdyralei (3868 in chips) 
+Seat 2: johntheslon (1515 in chips) 
+Seat 3: cbill_gr (999 in chips) 
+Seat 4: prizrak play (2588 in chips) 
+Seat 5: wisg33 (1645 in chips) 
+Seat 6: leo.criv (1545 in chips) 
+Seat 9: MaltoHumor (1340 in chips) 
+wisg33: posts small blind 50
+leo.criv: posts big blind 100
+*** HOLE CARDS ***
+Dealt to wisg33 [6d 5s]
+MaltoHumor: folds 
+Realdyralei: folds 
+johntheslon: folds 
+cbill_gr: folds 
+prizrak play: folds 
+wisg33: folds 
+Uncalled bet (50) returned to leo.criv
+leo.criv collected 100 from pot
+*** SUMMARY ***
+Total pot 100 | Rake 0 
+Seat 1: Realdyralei folded before Flop (didn't bet)
+Seat 2: johntheslon folded before Flop (didn't bet)
+Seat 3: cbill_gr folded before Flop (didn't bet)
+Seat 4: prizrak play (button) folded before Flop (didn't bet)
+Seat 5: wisg33 (small blind) folded before Flop
+Seat 6: leo.criv (big blind) collected (100)
+Seat 9: MaltoHumor folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #161249024822: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level IV (50/100) - 2016/11/11 17:41:48 BRT [2016/11/11 14:41:48 ET]
+Table '1724073465 1' 9-max Seat #5 is the button
+Seat 1: Realdyralei (3868 in chips) 
+Seat 2: johntheslon (1515 in chips) 
+Seat 3: cbill_gr (999 in chips) 
+Seat 4: prizrak play (2588 in chips) 
+Seat 5: wisg33 (1595 in chips) 
+Seat 6: leo.criv (1595 in chips) 
+Seat 9: MaltoHumor (1340 in chips) 
+leo.criv: posts small blind 50
+MaltoHumor: posts big blind 100
+*** HOLE CARDS ***
+Dealt to wisg33 [Jh Jd]
+Realdyralei: folds 
+johntheslon: raises 150 to 250
+cbill_gr: folds 
+prizrak play: folds 
+wisg33: raises 1345 to 1595 and is all-in
+leo.criv: folds 
+MaltoHumor: folds 
+johntheslon: calls 1265 and is all-in
+Uncalled bet (80) returned to wisg33
+*** FLOP *** [Ad 3c 3s]
+*** TURN *** [Ad 3c 3s] [Tc]
+*** RIVER *** [Ad 3c 3s Tc] [Ah]
+*** SHOW DOWN ***
+johntheslon: shows [8d 8h] (two pair, Aces and Eights)
+wisg33: shows [Jh Jd] (two pair, Aces and Jacks)
+wisg33 collected 3180 from pot
+johntheslon finished the tournament in 7th place
+*** SUMMARY ***
+Total pot 3180 | Rake 0 
+Board [Ad 3c 3s Tc Ah]
+Seat 1: Realdyralei folded before Flop (didn't bet)
+Seat 2: johntheslon showed [8d 8h] and lost with two pair, Aces and Eights
+Seat 3: cbill_gr folded before Flop (didn't bet)
+Seat 4: prizrak play folded before Flop (didn't bet)
+Seat 5: wisg33 (button) showed [Jh Jd] and won (3180) with two pair, Aces and Jacks
+Seat 6: leo.criv (small blind) folded before Flop
+Seat 9: MaltoHumor (big blind) folded before Flop
+
+
+
+PokerStars Hand #161249056185: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level IV (50/100) - 2016/11/11 17:42:25 BRT [2016/11/11 14:42:25 ET]
+Table '1724073465 1' 9-max Seat #6 is the button
+Seat 1: Realdyralei (3868 in chips) 
+Seat 3: cbill_gr (999 in chips) 
+Seat 4: prizrak play (2588 in chips) 
+Seat 5: wisg33 (3260 in chips) 
+Seat 6: leo.criv (1545 in chips) 
+Seat 9: MaltoHumor (1240 in chips) 
+MaltoHumor: posts small blind 50
+Realdyralei: posts big blind 100
+*** HOLE CARDS ***
+Dealt to wisg33 [8d 4h]
+cbill_gr: folds 
+prizrak play: folds 
+wisg33: folds 
+leo.criv: raises 100 to 200
+MaltoHumor: folds 
+Realdyralei: folds 
+Uncalled bet (100) returned to leo.criv
+leo.criv collected 250 from pot
+*** SUMMARY ***
+Total pot 250 | Rake 0 
+Seat 1: Realdyralei (big blind) folded before Flop
+Seat 3: cbill_gr folded before Flop (didn't bet)
+Seat 4: prizrak play folded before Flop (didn't bet)
+Seat 5: wisg33 folded before Flop (didn't bet)
+Seat 6: leo.criv (button) collected (250)
+Seat 9: MaltoHumor (small blind) folded before Flop
+
+
+
+PokerStars Hand #161249070188: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level IV (50/100) - 2016/11/11 17:42:42 BRT [2016/11/11 14:42:42 ET]
+Table '1724073465 1' 9-max Seat #9 is the button
+Seat 1: Realdyralei (3768 in chips) 
+Seat 3: cbill_gr (999 in chips) 
+Seat 4: prizrak play (2588 in chips) 
+Seat 5: wisg33 (3260 in chips) 
+Seat 6: leo.criv (1695 in chips) 
+Seat 9: MaltoHumor (1190 in chips) 
+Realdyralei: posts small blind 50
+cbill_gr: posts big blind 100
+*** HOLE CARDS ***
+Dealt to wisg33 [5c 8d]
+prizrak play: folds 
+wisg33: folds 
+leo.criv: folds 
+MaltoHumor: folds 
+Realdyralei: raises 3668 to 3768 and is all-in
+cbill_gr: folds 
+Uncalled bet (3668) returned to Realdyralei
+Realdyralei collected 200 from pot
+Realdyralei: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Seat 1: Realdyralei (small blind) collected (200)
+Seat 3: cbill_gr (big blind) folded before Flop
+Seat 4: prizrak play folded before Flop (didn't bet)
+Seat 5: wisg33 folded before Flop (didn't bet)
+Seat 6: leo.criv folded before Flop (didn't bet)
+Seat 9: MaltoHumor (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #161249088042: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level IV (50/100) - 2016/11/11 17:43:03 BRT [2016/11/11 14:43:03 ET]
+Table '1724073465 1' 9-max Seat #1 is the button
+Seat 1: Realdyralei (3868 in chips) 
+Seat 3: cbill_gr (899 in chips) 
+Seat 4: prizrak play (2588 in chips) 
+Seat 5: wisg33 (3260 in chips) 
+Seat 6: leo.criv (1695 in chips) 
+Seat 9: MaltoHumor (1190 in chips) 
+cbill_gr: posts small blind 50
+prizrak play: posts big blind 100
+*** HOLE CARDS ***
+Dealt to wisg33 [6h 3c]
+wisg33: folds 
+leo.criv: folds 
+MaltoHumor: raises 1090 to 1190 and is all-in
+Realdyralei: folds 
+cbill_gr: folds 
+prizrak play: folds 
+Uncalled bet (1090) returned to MaltoHumor
+MaltoHumor collected 250 from pot
+MaltoHumor: doesn't show hand 
+*** SUMMARY ***
+Total pot 250 | Rake 0 
+Seat 1: Realdyralei (button) folded before Flop (didn't bet)
+Seat 3: cbill_gr (small blind) folded before Flop
+Seat 4: prizrak play (big blind) folded before Flop
+Seat 5: wisg33 folded before Flop (didn't bet)
+Seat 6: leo.criv folded before Flop (didn't bet)
+Seat 9: MaltoHumor collected (250)
+
+
+
+PokerStars Hand #161249109547: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level IV (50/100) - 2016/11/11 17:43:28 BRT [2016/11/11 14:43:28 ET]
+Table '1724073465 1' 9-max Seat #3 is the button
+Seat 1: Realdyralei (3868 in chips) 
+Seat 3: cbill_gr (849 in chips) 
+Seat 4: prizrak play (2488 in chips) 
+Seat 5: wisg33 (3260 in chips) 
+Seat 6: leo.criv (1695 in chips) 
+Seat 9: MaltoHumor (1340 in chips) 
+prizrak play: posts small blind 50
+wisg33: posts big blind 100
+*** HOLE CARDS ***
+Dealt to wisg33 [Kc Ks]
+leo.criv: folds 
+MaltoHumor: folds 
+Realdyralei: folds 
+cbill_gr: folds 
+prizrak play: calls 50
+wisg33: checks 
+*** FLOP *** [Qd Ad 2h]
+prizrak play: checks 
+wisg33: bets 200
+prizrak play: folds 
+Uncalled bet (200) returned to wisg33
+wisg33 collected 200 from pot
+wisg33: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Board [Qd Ad 2h]
+Seat 1: Realdyralei folded before Flop (didn't bet)
+Seat 3: cbill_gr (button) folded before Flop (didn't bet)
+Seat 4: prizrak play (small blind) folded on the Flop
+Seat 5: wisg33 (big blind) collected (200)
+Seat 6: leo.criv folded before Flop (didn't bet)
+Seat 9: MaltoHumor folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #161249135240: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level IV (50/100) - 2016/11/11 17:43:58 BRT [2016/11/11 14:43:58 ET]
+Table '1724073465 1' 9-max Seat #4 is the button
+Seat 1: Realdyralei (3868 in chips) 
+Seat 3: cbill_gr (849 in chips) 
+Seat 4: prizrak play (2388 in chips) 
+Seat 5: wisg33 (3360 in chips) 
+Seat 6: leo.criv (1695 in chips) 
+Seat 9: MaltoHumor (1340 in chips) 
+wisg33: posts small blind 50
+leo.criv: posts big blind 100
+*** HOLE CARDS ***
+Dealt to wisg33 [5h 3h]
+MaltoHumor: raises 1240 to 1340 and is all-in
+Realdyralei: folds 
+cbill_gr: folds 
+prizrak play: folds 
+wisg33: folds 
+leo.criv: folds 
+Uncalled bet (1240) returned to MaltoHumor
+MaltoHumor collected 250 from pot
+MaltoHumor: doesn't show hand 
+*** SUMMARY ***
+Total pot 250 | Rake 0 
+Seat 1: Realdyralei folded before Flop (didn't bet)
+Seat 3: cbill_gr folded before Flop (didn't bet)
+Seat 4: prizrak play (button) folded before Flop (didn't bet)
+Seat 5: wisg33 (small blind) folded before Flop
+Seat 6: leo.criv (big blind) folded before Flop
+Seat 9: MaltoHumor collected (250)
+
+
+
+PokerStars Hand #161249156168: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level IV (50/100) - 2016/11/11 17:44:23 BRT [2016/11/11 14:44:23 ET]
+Table '1724073465 1' 9-max Seat #5 is the button
+Seat 1: Realdyralei (3868 in chips) 
+Seat 3: cbill_gr (849 in chips) 
+Seat 4: prizrak play (2388 in chips) 
+Seat 5: wisg33 (3310 in chips) 
+Seat 6: leo.criv (1595 in chips) 
+Seat 9: MaltoHumor (1490 in chips) 
+leo.criv: posts small blind 50
+MaltoHumor: posts big blind 100
+*** HOLE CARDS ***
+Dealt to wisg33 [7s 8s]
+Realdyralei: folds 
+cbill_gr: folds 
+prizrak play: folds 
+wisg33: folds 
+leo.criv: raises 200 to 300
+MaltoHumor: folds 
+Uncalled bet (200) returned to leo.criv
+leo.criv collected 200 from pot
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Seat 1: Realdyralei folded before Flop (didn't bet)
+Seat 3: cbill_gr folded before Flop (didn't bet)
+Seat 4: prizrak play folded before Flop (didn't bet)
+Seat 5: wisg33 (button) folded before Flop (didn't bet)
+Seat 6: leo.criv (small blind) collected (200)
+Seat 9: MaltoHumor (big blind) folded before Flop
+
+
+
+PokerStars Hand #161249176647: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level V (75/150) - 2016/11/11 17:44:48 BRT [2016/11/11 14:44:48 ET]
+Table '1724073465 1' 9-max Seat #6 is the button
+Seat 1: Realdyralei (3868 in chips) 
+Seat 3: cbill_gr (849 in chips) 
+Seat 4: prizrak play (2388 in chips) 
+Seat 5: wisg33 (3310 in chips) 
+Seat 6: leo.criv (1695 in chips) 
+Seat 9: MaltoHumor (1390 in chips) 
+MaltoHumor: posts small blind 75
+Realdyralei: posts big blind 150
+*** HOLE CARDS ***
+Dealt to wisg33 [8s 4c]
+cbill_gr: folds 
+prizrak play: folds 
+wisg33: folds 
+leo.criv is connected 
+leo.criv is disconnected 
+leo.criv is connected 
+leo.criv: folds 
+MaltoHumor: folds 
+Uncalled bet (75) returned to Realdyralei
+Realdyralei collected 150 from pot
+Realdyralei: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Seat 1: Realdyralei (big blind) collected (150)
+Seat 3: cbill_gr folded before Flop (didn't bet)
+Seat 4: prizrak play folded before Flop (didn't bet)
+Seat 5: wisg33 folded before Flop (didn't bet)
+Seat 6: leo.criv (button) folded before Flop (didn't bet)
+Seat 9: MaltoHumor (small blind) folded before Flop
+
+
+
+PokerStars Hand #161249216767: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level V (75/150) - 2016/11/11 17:45:35 BRT [2016/11/11 14:45:35 ET]
+Table '1724073465 1' 9-max Seat #9 is the button
+Seat 1: Realdyralei (3943 in chips) 
+Seat 3: cbill_gr (849 in chips) 
+Seat 4: prizrak play (2388 in chips) 
+Seat 5: wisg33 (3310 in chips) 
+Seat 6: leo.criv (1695 in chips) 
+Seat 9: MaltoHumor (1315 in chips) 
+Realdyralei: posts small blind 75
+cbill_gr: posts big blind 150
+*** HOLE CARDS ***
+Dealt to wisg33 [Th Qs]
+prizrak play: folds 
+wisg33: folds 
+leo.criv: folds 
+MaltoHumor: raises 150 to 300
+Realdyralei: raises 3643 to 3943 and is all-in
+cbill_gr: folds 
+MaltoHumor: calls 1015 and is all-in
+Uncalled bet (2628) returned to Realdyralei
+*** FLOP *** [9c 4h 5s]
+*** TURN *** [9c 4h 5s] [5c]
+*** RIVER *** [9c 4h 5s 5c] [Qc]
+*** SHOW DOWN ***
+Realdyralei: shows [Js Ad] (a pair of Fives)
+MaltoHumor: shows [Kd Kc] (two pair, Kings and Fives)
+MaltoHumor collected 2780 from pot
+*** SUMMARY ***
+Total pot 2780 | Rake 0 
+Board [9c 4h 5s 5c Qc]
+Seat 1: Realdyralei (small blind) showed [Js Ad] and lost with a pair of Fives
+Seat 3: cbill_gr (big blind) folded before Flop
+Seat 4: prizrak play folded before Flop (didn't bet)
+Seat 5: wisg33 folded before Flop (didn't bet)
+Seat 6: leo.criv folded before Flop (didn't bet)
+Seat 9: MaltoHumor (button) showed [Kd Kc] and won (2780) with two pair, Kings and Fives
+
+
+
+PokerStars Hand #161249242549: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level V (75/150) - 2016/11/11 17:46:06 BRT [2016/11/11 14:46:06 ET]
+Table '1724073465 1' 9-max Seat #1 is the button
+Seat 1: Realdyralei (2628 in chips) 
+Seat 3: cbill_gr (699 in chips) 
+Seat 4: prizrak play (2388 in chips) 
+Seat 5: wisg33 (3310 in chips) 
+Seat 6: leo.criv (1695 in chips) 
+Seat 9: MaltoHumor (2780 in chips) 
+cbill_gr: posts small blind 75
+prizrak play: posts big blind 150
+*** HOLE CARDS ***
+Dealt to wisg33 [4s Tc]
+wisg33: folds 
+leo.criv: raises 150 to 300
+MaltoHumor: folds 
+Realdyralei: folds 
+cbill_gr: folds 
+prizrak play: calls 150
+*** FLOP *** [Jh Th Ts]
+prizrak play: checks 
+leo.criv: bets 202
+prizrak play: calls 202
+*** TURN *** [Jh Th Ts] [5c]
+prizrak play: checks 
+leo.criv: bets 323
+prizrak play: calls 323
+*** RIVER *** [Jh Th Ts 5c] [2d]
+prizrak play: checks 
+leo.criv: bets 870 and is all-in
+prizrak play: calls 870
+*** SHOW DOWN ***
+leo.criv: shows [3c Ac] (a pair of Tens)
+prizrak play: shows [Qs Jc] (two pair, Jacks and Tens)
+prizrak play collected 3465 from pot
+leo.criv finished the tournament in 6th place
+*** SUMMARY ***
+Total pot 3465 | Rake 0 
+Board [Jh Th Ts 5c 2d]
+Seat 1: Realdyralei (button) folded before Flop (didn't bet)
+Seat 3: cbill_gr (small blind) folded before Flop
+Seat 4: prizrak play (big blind) showed [Qs Jc] and won (3465) with two pair, Jacks and Tens
+Seat 5: wisg33 folded before Flop (didn't bet)
+Seat 6: leo.criv showed [3c Ac] and lost with a pair of Tens
+Seat 9: MaltoHumor folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #161249283815: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level V (75/150) - 2016/11/11 17:46:55 BRT [2016/11/11 14:46:55 ET]
+Table '1724073465 1' 9-max Seat #3 is the button
+Seat 1: Realdyralei (2628 in chips) 
+Seat 3: cbill_gr (624 in chips) 
+Seat 4: prizrak play (4158 in chips) 
+Seat 5: wisg33 (3310 in chips) 
+Seat 9: MaltoHumor (2780 in chips) 
+prizrak play: posts small blind 75
+wisg33: posts big blind 150
+*** HOLE CARDS ***
+Dealt to wisg33 [7s Jd]
+MaltoHumor: folds 
+Realdyralei: folds 
+cbill_gr: folds 
+prizrak play: folds 
+Uncalled bet (75) returned to wisg33
+wisg33 collected 150 from pot
+wisg33: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Seat 1: Realdyralei folded before Flop (didn't bet)
+Seat 3: cbill_gr (button) folded before Flop (didn't bet)
+Seat 4: prizrak play (small blind) folded before Flop
+Seat 5: wisg33 (big blind) collected (150)
+Seat 9: MaltoHumor folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #161249292092: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level V (75/150) - 2016/11/11 17:47:04 BRT [2016/11/11 14:47:04 ET]
+Table '1724073465 1' 9-max Seat #4 is the button
+Seat 1: Realdyralei (2628 in chips) 
+Seat 3: cbill_gr (624 in chips) 
+Seat 4: prizrak play (4083 in chips) 
+Seat 5: wisg33 (3385 in chips) 
+Seat 9: MaltoHumor (2780 in chips) 
+wisg33: posts small blind 75
+MaltoHumor: posts big blind 150
+*** HOLE CARDS ***
+Dealt to wisg33 [Qc Kd]
+Realdyralei: folds 
+cbill_gr: folds 
+prizrak play: raises 150 to 300
+wisg33: folds 
+MaltoHumor: folds 
+Uncalled bet (150) returned to prizrak play
+prizrak play collected 375 from pot
+prizrak play: doesn't show hand 
+*** SUMMARY ***
+Total pot 375 | Rake 0 
+Seat 1: Realdyralei folded before Flop (didn't bet)
+Seat 3: cbill_gr folded before Flop (didn't bet)
+Seat 4: prizrak play (button) collected (375)
+Seat 5: wisg33 (small blind) folded before Flop
+Seat 9: MaltoHumor (big blind) folded before Flop
+
+
+
+PokerStars Hand #161249326974: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level V (75/150) - 2016/11/11 17:47:46 BRT [2016/11/11 14:47:46 ET]
+Table '1724073465 1' 9-max Seat #5 is the button
+Seat 1: Realdyralei (2628 in chips) 
+Seat 3: cbill_gr (624 in chips) 
+Seat 4: prizrak play (4308 in chips) 
+Seat 5: wisg33 (3310 in chips) 
+Seat 9: MaltoHumor (2630 in chips) 
+MaltoHumor: posts small blind 75
+Realdyralei: posts big blind 150
+*** HOLE CARDS ***
+Dealt to wisg33 [7c 5s]
+cbill_gr: folds 
+prizrak play: folds 
+wisg33: folds 
+MaltoHumor: folds 
+Uncalled bet (75) returned to Realdyralei
+Realdyralei collected 150 from pot
+Realdyralei: doesn't show hand 
+*** SUMMARY ***
+Total pot 150 | Rake 0 
+Seat 1: Realdyralei (big blind) collected (150)
+Seat 3: cbill_gr folded before Flop (didn't bet)
+Seat 4: prizrak play folded before Flop (didn't bet)
+Seat 5: wisg33 (button) folded before Flop (didn't bet)
+Seat 9: MaltoHumor (small blind) folded before Flop
+
+
+
+PokerStars Hand #161249337669: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level V (75/150) - 2016/11/11 17:47:59 BRT [2016/11/11 14:47:59 ET]
+Table '1724073465 1' 9-max Seat #9 is the button
+Seat 1: Realdyralei (2703 in chips) 
+Seat 3: cbill_gr (624 in chips) 
+Seat 4: prizrak play (4308 in chips) 
+Seat 5: wisg33 (3310 in chips) 
+Seat 9: MaltoHumor (2555 in chips) 
+Realdyralei: posts small blind 75
+cbill_gr: posts big blind 150
+*** HOLE CARDS ***
+Dealt to wisg33 [8d 3h]
+prizrak play: folds 
+wisg33: folds 
+MaltoHumor: raises 150 to 300
+Realdyralei: folds 
+cbill_gr: calls 150
+*** FLOP *** [Ah 2d 6h]
+cbill_gr: checks 
+MaltoHumor: bets 450
+cbill_gr: calls 324 and is all-in
+Uncalled bet (126) returned to MaltoHumor
+*** TURN *** [Ah 2d 6h] [Qd]
+*** RIVER *** [Ah 2d 6h Qd] [5h]
+*** SHOW DOWN ***
+cbill_gr: shows [7c Kh] (high card Ace)
+MaltoHumor: shows [Tc Ad] (a pair of Aces)
+MaltoHumor collected 1323 from pot
+cbill_gr finished the tournament in 5th place
+*** SUMMARY ***
+Total pot 1323 | Rake 0 
+Board [Ah 2d 6h Qd 5h]
+Seat 1: Realdyralei (small blind) folded before Flop
+Seat 3: cbill_gr (big blind) showed [7c Kh] and lost with high card Ace
+Seat 4: prizrak play folded before Flop (didn't bet)
+Seat 5: wisg33 folded before Flop (didn't bet)
+Seat 9: MaltoHumor (button) showed [Tc Ad] and won (1323) with a pair of Aces
+
+
+
+PokerStars Hand #161249374056: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level V (75/150) - 2016/11/11 17:48:41 BRT [2016/11/11 14:48:41 ET]
+Table '1724073465 1' 9-max Seat #1 is the button
+Seat 1: Realdyralei (2628 in chips) 
+Seat 4: prizrak play (4308 in chips) 
+Seat 5: wisg33 (3310 in chips) 
+Seat 9: MaltoHumor (3254 in chips) 
+prizrak play: posts small blind 75
+wisg33: posts big blind 150
+*** HOLE CARDS ***
+Dealt to wisg33 [6c 4h]
+MaltoHumor: folds 
+Realdyralei: raises 150 to 300
+prizrak play: calls 225
+wisg33: folds 
+*** FLOP *** [5h Ad 9s]
+prizrak play: checks 
+Realdyralei: bets 315
+prizrak play: folds 
+Uncalled bet (315) returned to Realdyralei
+Realdyralei collected 750 from pot
+Realdyralei: doesn't show hand 
+*** SUMMARY ***
+Total pot 750 | Rake 0 
+Board [5h Ad 9s]
+Seat 1: Realdyralei (button) collected (750)
+Seat 4: prizrak play (small blind) folded on the Flop
+Seat 5: wisg33 (big blind) folded before Flop
+Seat 9: MaltoHumor folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #161249399692: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level V (75/150) - 2016/11/11 17:49:11 BRT [2016/11/11 14:49:11 ET]
+Table '1724073465 1' 9-max Seat #4 is the button
+Seat 1: Realdyralei (3078 in chips) 
+Seat 4: prizrak play (4008 in chips) 
+Seat 5: wisg33 (3160 in chips) 
+Seat 9: MaltoHumor (3254 in chips) 
+wisg33: posts small blind 75
+MaltoHumor: posts big blind 150
+*** HOLE CARDS ***
+Dealt to wisg33 [Qd Js]
+Realdyralei: folds 
+prizrak play: raises 150 to 300
+wisg33: calls 225
+MaltoHumor: folds 
+*** FLOP *** [3h Jc 4h]
+wisg33: bets 450
+prizrak play: folds 
+Uncalled bet (450) returned to wisg33
+wisg33 collected 750 from pot
+wisg33: doesn't show hand 
+*** SUMMARY ***
+Total pot 750 | Rake 0 
+Board [3h Jc 4h]
+Seat 1: Realdyralei folded before Flop (didn't bet)
+Seat 4: prizrak play (button) folded on the Flop
+Seat 5: wisg33 (small blind) collected (750)
+Seat 9: MaltoHumor (big blind) folded before Flop
+
+
+
+PokerStars Hand #161249430952: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level VI (100/200) - 2016/11/11 17:49:48 BRT [2016/11/11 14:49:48 ET]
+Table '1724073465 1' 9-max Seat #5 is the button
+Seat 1: Realdyralei (3078 in chips) 
+Seat 4: prizrak play (3708 in chips) 
+Seat 5: wisg33 (3610 in chips) 
+Seat 9: MaltoHumor (3104 in chips) 
+MaltoHumor: posts small blind 100
+Realdyralei: posts big blind 200
+*** HOLE CARDS ***
+Dealt to wisg33 [5s Td]
+prizrak play: folds 
+wisg33: folds 
+MaltoHumor: raises 200 to 400
+Realdyralei: calls 200
+*** FLOP *** [Kd 6h Js]
+MaltoHumor: checks 
+Realdyralei: bets 336
+MaltoHumor: folds 
+Uncalled bet (336) returned to Realdyralei
+Realdyralei collected 800 from pot
+Realdyralei: doesn't show hand 
+*** SUMMARY ***
+Total pot 800 | Rake 0 
+Board [Kd 6h Js]
+Seat 1: Realdyralei (big blind) collected (800)
+Seat 4: prizrak play folded before Flop (didn't bet)
+Seat 5: wisg33 (button) folded before Flop (didn't bet)
+Seat 9: MaltoHumor (small blind) folded on the Flop
+
+
+
+PokerStars Hand #161249460268: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level VI (100/200) - 2016/11/11 17:50:23 BRT [2016/11/11 14:50:23 ET]
+Table '1724073465 1' 9-max Seat #9 is the button
+Seat 1: Realdyralei (3478 in chips) 
+Seat 4: prizrak play (3708 in chips) 
+Seat 5: wisg33 (3610 in chips) 
+Seat 9: MaltoHumor (2704 in chips) 
+Realdyralei: posts small blind 100
+prizrak play: posts big blind 200
+*** HOLE CARDS ***
+Dealt to wisg33 [2s 9c]
+wisg33: folds 
+MaltoHumor: folds 
+Realdyralei: raises 200 to 400
+prizrak play: calls 200
+*** FLOP *** [5h Ac 5c]
+Realdyralei: bets 336
+prizrak play: raises 664 to 1000
+Realdyralei: folds 
+Uncalled bet (664) returned to prizrak play
+prizrak play collected 1472 from pot
+prizrak play: doesn't show hand 
+*** SUMMARY ***
+Total pot 1472 | Rake 0 
+Board [5h Ac 5c]
+Seat 1: Realdyralei (small blind) folded on the Flop
+Seat 4: prizrak play (big blind) collected (1472)
+Seat 5: wisg33 folded before Flop (didn't bet)
+Seat 9: MaltoHumor (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #161249489313: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level VI (100/200) - 2016/11/11 17:50:57 BRT [2016/11/11 14:50:57 ET]
+Table '1724073465 1' 9-max Seat #1 is the button
+Seat 1: Realdyralei (2742 in chips) 
+Seat 4: prizrak play (4444 in chips) 
+Seat 5: wisg33 (3610 in chips) 
+Seat 9: MaltoHumor (2704 in chips) 
+prizrak play: posts small blind 100
+wisg33: posts big blind 200
+*** HOLE CARDS ***
+Dealt to wisg33 [5s 2s]
+MaltoHumor: folds 
+Realdyralei: folds 
+prizrak play: raises 200 to 400
+wisg33: folds 
+Uncalled bet (200) returned to prizrak play
+prizrak play collected 400 from pot
+prizrak play: doesn't show hand 
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Seat 1: Realdyralei (button) folded before Flop (didn't bet)
+Seat 4: prizrak play (small blind) collected (400)
+Seat 5: wisg33 (big blind) folded before Flop
+Seat 9: MaltoHumor folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #161249501291: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level VI (100/200) - 2016/11/11 17:51:11 BRT [2016/11/11 14:51:11 ET]
+Table '1724073465 1' 9-max Seat #4 is the button
+Seat 1: Realdyralei (2742 in chips) 
+Seat 4: prizrak play (4644 in chips) 
+Seat 5: wisg33 (3410 in chips) 
+Seat 9: MaltoHumor (2704 in chips) 
+wisg33: posts small blind 100
+MaltoHumor: posts big blind 200
+*** HOLE CARDS ***
+Dealt to wisg33 [8s 4c]
+Realdyralei: raises 2542 to 2742 and is all-in
+prizrak play: folds 
+wisg33: folds 
+MaltoHumor: folds 
+Uncalled bet (2542) returned to Realdyralei
+Realdyralei collected 500 from pot
+Realdyralei: doesn't show hand 
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Seat 1: Realdyralei collected (500)
+Seat 4: prizrak play (button) folded before Flop (didn't bet)
+Seat 5: wisg33 (small blind) folded before Flop
+Seat 9: MaltoHumor (big blind) folded before Flop
+
+
+
+PokerStars Hand #161249516089: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level VI (100/200) - 2016/11/11 17:51:29 BRT [2016/11/11 14:51:29 ET]
+Table '1724073465 1' 9-max Seat #5 is the button
+Seat 1: Realdyralei (3042 in chips) 
+Seat 4: prizrak play (4644 in chips) 
+Seat 5: wisg33 (3310 in chips) 
+Seat 9: MaltoHumor (2504 in chips) 
+MaltoHumor: posts small blind 100
+Realdyralei: posts big blind 200
+*** HOLE CARDS ***
+Dealt to wisg33 [7d 2c]
+prizrak play: folds 
+wisg33: folds 
+MaltoHumor: raises 200 to 400
+Realdyralei: folds 
+Uncalled bet (200) returned to MaltoHumor
+MaltoHumor collected 400 from pot
+MaltoHumor: doesn't show hand 
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Seat 1: Realdyralei (big blind) folded before Flop
+Seat 4: prizrak play folded before Flop (didn't bet)
+Seat 5: wisg33 (button) folded before Flop (didn't bet)
+Seat 9: MaltoHumor (small blind) collected (400)
+
+
+
+PokerStars Hand #161249527328: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level VI (100/200) - 2016/11/11 17:51:42 BRT [2016/11/11 14:51:42 ET]
+Table '1724073465 1' 9-max Seat #9 is the button
+Seat 1: Realdyralei (2842 in chips) 
+Seat 4: prizrak play (4644 in chips) 
+Seat 5: wisg33 (3310 in chips) 
+Seat 9: MaltoHumor (2704 in chips) 
+Realdyralei: posts small blind 100
+prizrak play: posts big blind 200
+*** HOLE CARDS ***
+Dealt to wisg33 [8s 6c]
+wisg33: folds 
+MaltoHumor: raises 200 to 400
+Realdyralei: raises 2442 to 2842 and is all-in
+prizrak play: folds 
+MaltoHumor: folds 
+Uncalled bet (2442) returned to Realdyralei
+Realdyralei collected 1000 from pot
+Realdyralei: doesn't show hand 
+*** SUMMARY ***
+Total pot 1000 | Rake 0 
+Seat 1: Realdyralei (small blind) collected (1000)
+Seat 4: prizrak play (big blind) folded before Flop
+Seat 5: wisg33 folded before Flop (didn't bet)
+Seat 9: MaltoHumor (button) folded before Flop
+
+
+
+PokerStars Hand #161249540270: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level VI (100/200) - 2016/11/11 17:51:57 BRT [2016/11/11 14:51:57 ET]
+Table '1724073465 1' 9-max Seat #1 is the button
+Seat 1: Realdyralei (3442 in chips) 
+Seat 4: prizrak play (4444 in chips) 
+Seat 5: wisg33 (3310 in chips) 
+Seat 9: MaltoHumor (2304 in chips) 
+prizrak play: posts small blind 100
+wisg33: posts big blind 200
+*** HOLE CARDS ***
+Dealt to wisg33 [8h Ac]
+MaltoHumor: folds 
+Realdyralei: raises 200 to 400
+prizrak play: calls 300
+wisg33: calls 200
+*** FLOP *** [Qc 4h 6d]
+prizrak play: checks 
+wisg33: checks 
+Realdyralei: checks 
+*** TURN *** [Qc 4h 6d] [9h]
+prizrak play: checks 
+wisg33: checks 
+Realdyralei: checks 
+*** RIVER *** [Qc 4h 6d 9h] [8c]
+prizrak play: checks 
+wisg33: bets 400
+Realdyralei: folds 
+prizrak play: folds 
+Uncalled bet (400) returned to wisg33
+wisg33 collected 1200 from pot
+wisg33: doesn't show hand 
+*** SUMMARY ***
+Total pot 1200 | Rake 0 
+Board [Qc 4h 6d 9h 8c]
+Seat 1: Realdyralei (button) folded on the River
+Seat 4: prizrak play (small blind) folded on the River
+Seat 5: wisg33 (big blind) collected (1200)
+Seat 9: MaltoHumor folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #161249580529: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level VI (100/200) - 2016/11/11 17:52:46 BRT [2016/11/11 14:52:46 ET]
+Table '1724073465 1' 9-max Seat #4 is the button
+Seat 1: Realdyralei (3042 in chips) 
+Seat 4: prizrak play (4044 in chips) 
+Seat 5: wisg33 (4110 in chips) 
+Seat 9: MaltoHumor (2304 in chips) 
+wisg33: posts small blind 100
+MaltoHumor: posts big blind 200
+*** HOLE CARDS ***
+Dealt to wisg33 [6s Ts]
+Realdyralei: folds 
+prizrak play: raises 300 to 500
+wisg33: folds 
+MaltoHumor: folds 
+Uncalled bet (300) returned to prizrak play
+prizrak play collected 500 from pot
+prizrak play: doesn't show hand 
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Seat 1: Realdyralei folded before Flop (didn't bet)
+Seat 4: prizrak play (button) collected (500)
+Seat 5: wisg33 (small blind) folded before Flop
+Seat 9: MaltoHumor (big blind) folded before Flop
+
+
+
+PokerStars Hand #161249597499: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level VI (100/200) - 2016/11/11 17:53:06 BRT [2016/11/11 14:53:06 ET]
+Table '1724073465 1' 9-max Seat #5 is the button
+Seat 1: Realdyralei (3042 in chips) 
+Seat 4: prizrak play (4344 in chips) 
+Seat 5: wisg33 (4010 in chips) 
+Seat 9: MaltoHumor (2104 in chips) 
+MaltoHumor: posts small blind 100
+Realdyralei: posts big blind 200
+*** HOLE CARDS ***
+Dealt to wisg33 [9d 2c]
+prizrak play: folds 
+wisg33: folds 
+MaltoHumor: folds 
+Uncalled bet (100) returned to Realdyralei
+Realdyralei collected 200 from pot
+Realdyralei: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Seat 1: Realdyralei (big blind) collected (200)
+Seat 4: prizrak play folded before Flop (didn't bet)
+Seat 5: wisg33 (button) folded before Flop (didn't bet)
+Seat 9: MaltoHumor (small blind) folded before Flop
+
+
+
+PokerStars Hand #161249609379: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level VI (100/200) - 2016/11/11 17:53:20 BRT [2016/11/11 14:53:20 ET]
+Table '1724073465 1' 9-max Seat #9 is the button
+Seat 1: Realdyralei (3142 in chips) 
+Seat 4: prizrak play (4344 in chips) 
+Seat 5: wisg33 (4010 in chips) 
+Seat 9: MaltoHumor (2004 in chips) 
+Realdyralei: posts small blind 100
+prizrak play: posts big blind 200
+*** HOLE CARDS ***
+Dealt to wisg33 [2s Js]
+wisg33: folds 
+MaltoHumor: folds 
+Realdyralei: folds 
+Uncalled bet (100) returned to prizrak play
+prizrak play collected 200 from pot
+prizrak play: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Seat 1: Realdyralei (small blind) folded before Flop
+Seat 4: prizrak play (big blind) collected (200)
+Seat 5: wisg33 folded before Flop (didn't bet)
+Seat 9: MaltoHumor (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #161249616409: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level VI (100/200) - 2016/11/11 17:53:29 BRT [2016/11/11 14:53:29 ET]
+Table '1724073465 1' 9-max Seat #1 is the button
+Seat 1: Realdyralei (3042 in chips) 
+Seat 4: prizrak play (4444 in chips) 
+Seat 5: wisg33 (4010 in chips) 
+Seat 9: MaltoHumor (2004 in chips) 
+prizrak play: posts small blind 100
+wisg33: posts big blind 200
+*** HOLE CARDS ***
+Dealt to wisg33 [Ac 8c]
+MaltoHumor: folds 
+Realdyralei: raises 200 to 400
+prizrak play: calls 300
+wisg33: calls 200
+*** FLOP *** [2s Tc Jd]
+prizrak play: checks 
+wisg33: checks 
+Realdyralei: checks 
+*** TURN *** [2s Tc Jd] [Qh]
+prizrak play: bets 200
+wisg33: calls 200
+Realdyralei: calls 200
+*** RIVER *** [2s Tc Jd Qh] [5s]
+prizrak play: bets 540
+wisg33: folds 
+Realdyralei: folds 
+Uncalled bet (540) returned to prizrak play
+prizrak play collected 1800 from pot
+prizrak play: doesn't show hand 
+*** SUMMARY ***
+Total pot 1800 | Rake 0 
+Board [2s Tc Jd Qh 5s]
+Seat 1: Realdyralei (button) folded on the River
+Seat 4: prizrak play (small blind) collected (1800)
+Seat 5: wisg33 (big blind) folded on the River
+Seat 9: MaltoHumor folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #161249651895: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level VI (100/200) - 2016/11/11 17:54:11 BRT [2016/11/11 14:54:11 ET]
+Table '1724073465 1' 9-max Seat #4 is the button
+Seat 1: Realdyralei (2442 in chips) 
+Seat 4: prizrak play (5644 in chips) 
+Seat 5: wisg33 (3410 in chips) 
+Seat 9: MaltoHumor (2004 in chips) 
+wisg33: posts small blind 100
+MaltoHumor: posts big blind 200
+*** HOLE CARDS ***
+Dealt to wisg33 [3d Qd]
+Realdyralei: folds 
+prizrak play: folds 
+wisg33: folds 
+Uncalled bet (100) returned to MaltoHumor
+MaltoHumor collected 200 from pot
+MaltoHumor: doesn't show hand 
+*** SUMMARY ***
+Total pot 200 | Rake 0 
+Seat 1: Realdyralei folded before Flop (didn't bet)
+Seat 4: prizrak play (button) folded before Flop (didn't bet)
+Seat 5: wisg33 (small blind) folded before Flop
+Seat 9: MaltoHumor (big blind) collected (200)
+
+
+
+PokerStars Hand #161249665317: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level VI (100/200) - 2016/11/11 17:54:27 BRT [2016/11/11 14:54:27 ET]
+Table '1724073465 1' 9-max Seat #5 is the button
+Seat 1: Realdyralei (2442 in chips) 
+Seat 4: prizrak play (5644 in chips) 
+Seat 5: wisg33 (3310 in chips) 
+Seat 9: MaltoHumor (2104 in chips) 
+MaltoHumor: posts small blind 100
+Realdyralei: posts big blind 200
+*** HOLE CARDS ***
+Dealt to wisg33 [Ts 3c]
+prizrak play: raises 200 to 400
+wisg33: folds 
+MaltoHumor: folds 
+Realdyralei: folds 
+Uncalled bet (200) returned to prizrak play
+prizrak play collected 500 from pot
+prizrak play: doesn't show hand 
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Seat 1: Realdyralei (big blind) folded before Flop
+Seat 4: prizrak play collected (500)
+Seat 5: wisg33 (button) folded before Flop (didn't bet)
+Seat 9: MaltoHumor (small blind) folded before Flop
+
+
+
+PokerStars Hand #161249677025: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level VII (100/200) - 2016/11/11 17:54:41 BRT [2016/11/11 14:54:41 ET]
+Table '1724073465 1' 9-max Seat #9 is the button
+Seat 1: Realdyralei (2242 in chips) 
+Seat 4: prizrak play (5944 in chips) 
+Seat 5: wisg33 (3310 in chips) 
+Seat 9: MaltoHumor (2004 in chips) 
+Realdyralei: posts the ante 25
+prizrak play: posts the ante 25
+wisg33: posts the ante 25
+MaltoHumor: posts the ante 25
+Realdyralei: posts small blind 100
+prizrak play: posts big blind 200
+*** HOLE CARDS ***
+Dealt to wisg33 [8c 2h]
+wisg33: folds 
+MaltoHumor: folds 
+Realdyralei: folds 
+Uncalled bet (100) returned to prizrak play
+prizrak play collected 300 from pot
+prizrak play: doesn't show hand 
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Seat 1: Realdyralei (small blind) folded before Flop
+Seat 4: prizrak play (big blind) collected (300)
+Seat 5: wisg33 folded before Flop (didn't bet)
+Seat 9: MaltoHumor (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #161249687127: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level VII (100/200) - 2016/11/11 17:54:53 BRT [2016/11/11 14:54:53 ET]
+Table '1724073465 1' 9-max Seat #1 is the button
+Seat 1: Realdyralei (2117 in chips) 
+Seat 4: prizrak play (6119 in chips) 
+Seat 5: wisg33 (3285 in chips) 
+Seat 9: MaltoHumor (1979 in chips) 
+Realdyralei: posts the ante 25
+prizrak play: posts the ante 25
+wisg33: posts the ante 25
+MaltoHumor: posts the ante 25
+prizrak play: posts small blind 100
+wisg33: posts big blind 200
+*** HOLE CARDS ***
+Dealt to wisg33 [7h Qh]
+MaltoHumor: folds 
+Realdyralei: folds 
+prizrak play: folds 
+Uncalled bet (100) returned to wisg33
+wisg33 collected 300 from pot
+wisg33: doesn't show hand 
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Seat 1: Realdyralei (button) folded before Flop (didn't bet)
+Seat 4: prizrak play (small blind) folded before Flop
+Seat 5: wisg33 (big blind) collected (300)
+Seat 9: MaltoHumor folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #161249697700: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level VII (100/200) - 2016/11/11 17:55:06 BRT [2016/11/11 14:55:06 ET]
+Table '1724073465 1' 9-max Seat #4 is the button
+Seat 1: Realdyralei (2092 in chips) 
+Seat 4: prizrak play (5994 in chips) 
+Seat 5: wisg33 (3460 in chips) 
+Seat 9: MaltoHumor (1954 in chips) 
+Realdyralei: posts the ante 25
+prizrak play: posts the ante 25
+wisg33: posts the ante 25
+MaltoHumor: posts the ante 25
+wisg33: posts small blind 100
+MaltoHumor: posts big blind 200
+*** HOLE CARDS ***
+Dealt to wisg33 [9s Kh]
+Realdyralei: folds 
+prizrak play: folds 
+wisg33: raises 200 to 400
+MaltoHumor: folds 
+Uncalled bet (200) returned to wisg33
+wisg33 collected 500 from pot
+wisg33: doesn't show hand 
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Seat 1: Realdyralei folded before Flop (didn't bet)
+Seat 4: prizrak play (button) folded before Flop (didn't bet)
+Seat 5: wisg33 (small blind) collected (500)
+Seat 9: MaltoHumor (big blind) folded before Flop
+
+
+
+PokerStars Hand #161249708727: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level VII (100/200) - 2016/11/11 17:55:21 BRT [2016/11/11 14:55:21 ET]
+Table '1724073465 1' 9-max Seat #5 is the button
+Seat 1: Realdyralei (2067 in chips) 
+Seat 4: prizrak play (5969 in chips) 
+Seat 5: wisg33 (3735 in chips) 
+Seat 9: MaltoHumor (1729 in chips) 
+Realdyralei: posts the ante 25
+prizrak play: posts the ante 25
+wisg33: posts the ante 25
+MaltoHumor: posts the ante 25
+MaltoHumor: posts small blind 100
+Realdyralei: posts big blind 200
+*** HOLE CARDS ***
+Dealt to wisg33 [6d 5s]
+prizrak play: folds 
+wisg33: folds 
+MaltoHumor: raises 1504 to 1704 and is all-in
+Realdyralei: folds 
+Uncalled bet (1504) returned to MaltoHumor
+MaltoHumor collected 500 from pot
+MaltoHumor: doesn't show hand 
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Seat 1: Realdyralei (big blind) folded before Flop
+Seat 4: prizrak play folded before Flop (didn't bet)
+Seat 5: wisg33 (button) folded before Flop (didn't bet)
+Seat 9: MaltoHumor (small blind) collected (500)
+
+
+
+PokerStars Hand #161249724019: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level VII (100/200) - 2016/11/11 17:55:44 BRT [2016/11/11 14:55:44 ET]
+Table '1724073465 1' 9-max Seat #9 is the button
+Seat 1: Realdyralei (1842 in chips) 
+Seat 4: prizrak play (5944 in chips) 
+Seat 5: wisg33 (3710 in chips) 
+Seat 9: MaltoHumor (2004 in chips) 
+Realdyralei: posts the ante 25
+prizrak play: posts the ante 25
+wisg33: posts the ante 25
+MaltoHumor: posts the ante 25
+Realdyralei: posts small blind 100
+prizrak play: posts big blind 200
+*** HOLE CARDS ***
+Dealt to wisg33 [4c 4h]
+wisg33: folds 
+MaltoHumor: folds 
+Realdyralei: raises 1617 to 1817 and is all-in
+prizrak play: folds 
+Uncalled bet (1617) returned to Realdyralei
+Realdyralei collected 500 from pot
+Realdyralei: doesn't show hand 
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Seat 1: Realdyralei (small blind) collected (500)
+Seat 4: prizrak play (big blind) folded before Flop
+Seat 5: wisg33 folded before Flop (didn't bet)
+Seat 9: MaltoHumor (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #161249733719: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level VII (100/200) - 2016/11/11 17:55:59 BRT [2016/11/11 14:55:59 ET]
+Table '1724073465 1' 9-max Seat #1 is the button
+Seat 1: Realdyralei (2117 in chips) 
+Seat 4: prizrak play (5719 in chips) 
+Seat 5: wisg33 (3685 in chips) 
+Seat 9: MaltoHumor (1979 in chips) 
+Realdyralei: posts the ante 25
+prizrak play: posts the ante 25
+wisg33: posts the ante 25
+MaltoHumor: posts the ante 25
+prizrak play: posts small blind 100
+wisg33: posts big blind 200
+*** HOLE CARDS ***
+Dealt to wisg33 [4s 6h]
+MaltoHumor: folds 
+Realdyralei: folds 
+prizrak play: folds 
+Uncalled bet (100) returned to wisg33
+wisg33 collected 300 from pot
+wisg33: doesn't show hand 
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Seat 1: Realdyralei (button) folded before Flop (didn't bet)
+Seat 4: prizrak play (small blind) folded before Flop
+Seat 5: wisg33 (big blind) collected (300)
+Seat 9: MaltoHumor folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #161249739864: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level VII (100/200) - 2016/11/11 17:56:08 BRT [2016/11/11 14:56:08 ET]
+Table '1724073465 1' 9-max Seat #4 is the button
+Seat 1: Realdyralei (2092 in chips) 
+Seat 4: prizrak play (5594 in chips) 
+Seat 5: wisg33 (3860 in chips) 
+Seat 9: MaltoHumor (1954 in chips) 
+Realdyralei: posts the ante 25
+prizrak play: posts the ante 25
+wisg33: posts the ante 25
+MaltoHumor: posts the ante 25
+wisg33: posts small blind 100
+MaltoHumor: posts big blind 200
+*** HOLE CARDS ***
+Dealt to wisg33 [5h Jd]
+Realdyralei: folds 
+prizrak play: folds 
+wisg33: folds 
+Uncalled bet (100) returned to MaltoHumor
+MaltoHumor collected 300 from pot
+MaltoHumor: doesn't show hand 
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Seat 1: Realdyralei folded before Flop (didn't bet)
+Seat 4: prizrak play (button) folded before Flop (didn't bet)
+Seat 5: wisg33 (small blind) folded before Flop
+Seat 9: MaltoHumor (big blind) collected (300)
+
+
+
+PokerStars Hand #161249746164: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level VII (100/200) - 2016/11/11 17:56:18 BRT [2016/11/11 14:56:18 ET]
+Table '1724073465 1' 9-max Seat #5 is the button
+Seat 1: Realdyralei (2067 in chips) 
+Seat 4: prizrak play (5569 in chips) 
+Seat 5: wisg33 (3735 in chips) 
+Seat 9: MaltoHumor (2129 in chips) 
+Realdyralei: posts the ante 25
+prizrak play: posts the ante 25
+wisg33: posts the ante 25
+MaltoHumor: posts the ante 25
+MaltoHumor: posts small blind 100
+Realdyralei: posts big blind 200
+*** HOLE CARDS ***
+Dealt to wisg33 [3s 8c]
+prizrak play: folds 
+wisg33: folds 
+MaltoHumor: folds 
+Uncalled bet (100) returned to Realdyralei
+Realdyralei collected 300 from pot
+Realdyralei: doesn't show hand 
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Seat 1: Realdyralei (big blind) collected (300)
+Seat 4: prizrak play folded before Flop (didn't bet)
+Seat 5: wisg33 (button) folded before Flop (didn't bet)
+Seat 9: MaltoHumor (small blind) folded before Flop
+
+
+
+PokerStars Hand #161249754348: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level VII (100/200) - 2016/11/11 17:56:30 BRT [2016/11/11 14:56:30 ET]
+Table '1724073465 1' 9-max Seat #9 is the button
+Seat 1: Realdyralei (2242 in chips) 
+Seat 4: prizrak play (5544 in chips) 
+Seat 5: wisg33 (3710 in chips) 
+Seat 9: MaltoHumor (2004 in chips) 
+Realdyralei: posts the ante 25
+prizrak play: posts the ante 25
+wisg33: posts the ante 25
+MaltoHumor: posts the ante 25
+Realdyralei: posts small blind 100
+prizrak play: posts big blind 200
+*** HOLE CARDS ***
+Dealt to wisg33 [Qd 4h]
+wisg33: folds 
+MaltoHumor: folds 
+Realdyralei: raises 2017 to 2217 and is all-in
+prizrak play: folds 
+Uncalled bet (2017) returned to Realdyralei
+Realdyralei collected 500 from pot
+Realdyralei: doesn't show hand 
+*** SUMMARY ***
+Total pot 500 | Rake 0 
+Seat 1: Realdyralei (small blind) collected (500)
+Seat 4: prizrak play (big blind) folded before Flop
+Seat 5: wisg33 folded before Flop (didn't bet)
+Seat 9: MaltoHumor (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #161249761752: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level VII (100/200) - 2016/11/11 17:56:42 BRT [2016/11/11 14:56:42 ET]
+Table '1724073465 1' 9-max Seat #1 is the button
+Seat 1: Realdyralei (2517 in chips) 
+Seat 4: prizrak play (5319 in chips) 
+Seat 5: wisg33 (3685 in chips) 
+Seat 9: MaltoHumor (1979 in chips) 
+Realdyralei: posts the ante 25
+prizrak play: posts the ante 25
+wisg33: posts the ante 25
+MaltoHumor: posts the ante 25
+prizrak play: posts small blind 100
+wisg33: posts big blind 200
+*** HOLE CARDS ***
+Dealt to wisg33 [6s 4c]
+MaltoHumor: folds 
+Realdyralei: raises 200 to 400
+prizrak play: folds 
+wisg33: folds 
+Uncalled bet (200) returned to Realdyralei
+Realdyralei collected 600 from pot
+Realdyralei: doesn't show hand 
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Seat 1: Realdyralei (button) collected (600)
+Seat 4: prizrak play (small blind) folded before Flop
+Seat 5: wisg33 (big blind) folded before Flop
+Seat 9: MaltoHumor folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #161249771301: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level VII (100/200) - 2016/11/11 17:56:56 BRT [2016/11/11 14:56:56 ET]
+Table '1724073465 1' 9-max Seat #4 is the button
+Seat 1: Realdyralei (2892 in chips) 
+Seat 4: prizrak play (5194 in chips) 
+Seat 5: wisg33 (3460 in chips) 
+Seat 9: MaltoHumor (1954 in chips) 
+Realdyralei: posts the ante 25
+prizrak play: posts the ante 25
+wisg33: posts the ante 25
+MaltoHumor: posts the ante 25
+wisg33: posts small blind 100
+MaltoHumor: posts big blind 200
+*** HOLE CARDS ***
+Dealt to wisg33 [5h 2d]
+Realdyralei: folds 
+prizrak play: folds 
+wisg33: folds 
+Uncalled bet (100) returned to MaltoHumor
+MaltoHumor collected 300 from pot
+MaltoHumor: doesn't show hand 
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Seat 1: Realdyralei folded before Flop (didn't bet)
+Seat 4: prizrak play (button) folded before Flop (didn't bet)
+Seat 5: wisg33 (small blind) folded before Flop
+Seat 9: MaltoHumor (big blind) collected (300)
+
+
+
+PokerStars Hand #161249775829: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level VII (100/200) - 2016/11/11 17:57:03 BRT [2016/11/11 14:57:03 ET]
+Table '1724073465 1' 9-max Seat #5 is the button
+Seat 1: Realdyralei (2867 in chips) 
+Seat 4: prizrak play (5169 in chips) 
+Seat 5: wisg33 (3335 in chips) 
+Seat 9: MaltoHumor (2129 in chips) 
+Realdyralei: posts the ante 25
+prizrak play: posts the ante 25
+wisg33: posts the ante 25
+MaltoHumor: posts the ante 25
+MaltoHumor: posts small blind 100
+Realdyralei: posts big blind 200
+*** HOLE CARDS ***
+Dealt to wisg33 [7h Td]
+prizrak play: raises 200 to 400
+wisg33: folds 
+MaltoHumor: folds 
+Realdyralei: folds 
+Uncalled bet (200) returned to prizrak play
+prizrak play collected 600 from pot
+prizrak play: doesn't show hand 
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Seat 1: Realdyralei (big blind) folded before Flop
+Seat 4: prizrak play collected (600)
+Seat 5: wisg33 (button) folded before Flop (didn't bet)
+Seat 9: MaltoHumor (small blind) folded before Flop
+
+
+
+PokerStars Hand #161249781399: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level VII (100/200) - 2016/11/11 17:57:11 BRT [2016/11/11 14:57:11 ET]
+Table '1724073465 1' 9-max Seat #9 is the button
+Seat 1: Realdyralei (2642 in chips) 
+Seat 4: prizrak play (5544 in chips) 
+Seat 5: wisg33 (3310 in chips) 
+Seat 9: MaltoHumor (2004 in chips) 
+Realdyralei: posts the ante 25
+prizrak play: posts the ante 25
+wisg33: posts the ante 25
+MaltoHumor: posts the ante 25
+Realdyralei: posts small blind 100
+prizrak play: posts big blind 200
+*** HOLE CARDS ***
+Dealt to wisg33 [2c Qd]
+wisg33: folds 
+MaltoHumor: folds 
+Realdyralei: folds 
+Uncalled bet (100) returned to prizrak play
+prizrak play collected 300 from pot
+prizrak play: doesn't show hand 
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Seat 1: Realdyralei (small blind) folded before Flop
+Seat 4: prizrak play (big blind) collected (300)
+Seat 5: wisg33 folded before Flop (didn't bet)
+Seat 9: MaltoHumor (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #161249787334: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level VII (100/200) - 2016/11/11 17:57:21 BRT [2016/11/11 14:57:21 ET]
+Table '1724073465 1' 9-max Seat #1 is the button
+Seat 1: Realdyralei (2517 in chips) 
+Seat 4: prizrak play (5719 in chips) 
+Seat 5: wisg33 (3285 in chips) 
+Seat 9: MaltoHumor (1979 in chips) 
+Realdyralei: posts the ante 25
+prizrak play: posts the ante 25
+wisg33: posts the ante 25
+MaltoHumor: posts the ante 25
+prizrak play: posts small blind 100
+wisg33: posts big blind 200
+*** HOLE CARDS ***
+Dealt to wisg33 [2d Ts]
+MaltoHumor: raises 200 to 400
+Realdyralei: folds 
+prizrak play: calls 300
+wisg33: folds 
+*** FLOP *** [7s Qs 6s]
+prizrak play: bets 550
+MaltoHumor: folds 
+Uncalled bet (550) returned to prizrak play
+prizrak play collected 1100 from pot
+prizrak play: doesn't show hand 
+*** SUMMARY ***
+Total pot 1100 | Rake 0 
+Board [7s Qs 6s]
+Seat 1: Realdyralei (button) folded before Flop (didn't bet)
+Seat 4: prizrak play (small blind) collected (1100)
+Seat 5: wisg33 (big blind) folded before Flop
+Seat 9: MaltoHumor folded on the Flop
+
+
+
+PokerStars Hand #161249799851: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level VII (100/200) - 2016/11/11 17:57:40 BRT [2016/11/11 14:57:40 ET]
+Table '1724073465 1' 9-max Seat #4 is the button
+Seat 1: Realdyralei (2492 in chips) 
+Seat 4: prizrak play (6394 in chips) 
+Seat 5: wisg33 (3060 in chips) 
+Seat 9: MaltoHumor (1554 in chips) 
+Realdyralei: posts the ante 25
+prizrak play: posts the ante 25
+wisg33: posts the ante 25
+MaltoHumor: posts the ante 25
+wisg33: posts small blind 100
+MaltoHumor: posts big blind 200
+*** HOLE CARDS ***
+Dealt to wisg33 [7c Qh]
+Realdyralei: folds 
+prizrak play: raises 200 to 400
+wisg33: folds 
+MaltoHumor: folds 
+Uncalled bet (200) returned to prizrak play
+prizrak play collected 600 from pot
+prizrak play: doesn't show hand 
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Seat 1: Realdyralei folded before Flop (didn't bet)
+Seat 4: prizrak play (button) collected (600)
+Seat 5: wisg33 (small blind) folded before Flop
+Seat 9: MaltoHumor (big blind) folded before Flop
+
+
+
+PokerStars Hand #161249807271: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level VII (100/200) - 2016/11/11 17:57:51 BRT [2016/11/11 14:57:51 ET]
+Table '1724073465 1' 9-max Seat #5 is the button
+Seat 1: Realdyralei (2467 in chips) 
+Seat 4: prizrak play (6769 in chips) 
+Seat 5: wisg33 (2935 in chips) 
+Seat 9: MaltoHumor (1329 in chips) 
+Realdyralei: posts the ante 25
+prizrak play: posts the ante 25
+wisg33: posts the ante 25
+MaltoHumor: posts the ante 25
+MaltoHumor: posts small blind 100
+Realdyralei: posts big blind 200
+*** HOLE CARDS ***
+Dealt to wisg33 [Td Qh]
+prizrak play: folds 
+wisg33: raises 200 to 400
+MaltoHumor: raises 904 to 1304 and is all-in
+Realdyralei: folds 
+wisg33: folds 
+Uncalled bet (904) returned to MaltoHumor
+MaltoHumor collected 1100 from pot
+MaltoHumor: doesn't show hand 
+*** SUMMARY ***
+Total pot 1100 | Rake 0 
+Seat 1: Realdyralei (big blind) folded before Flop
+Seat 4: prizrak play folded before Flop (didn't bet)
+Seat 5: wisg33 (button) folded before Flop
+Seat 9: MaltoHumor (small blind) collected (1100)
+
+
+
+PokerStars Hand #161249822878: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level VII (100/200) - 2016/11/11 17:58:14 BRT [2016/11/11 14:58:14 ET]
+Table '1724073465 1' 9-max Seat #9 is the button
+Seat 1: Realdyralei (2242 in chips) 
+Seat 4: prizrak play (6744 in chips) 
+Seat 5: wisg33 (2510 in chips) 
+Seat 9: MaltoHumor (2004 in chips) 
+Realdyralei: posts the ante 25
+prizrak play: posts the ante 25
+wisg33: posts the ante 25
+MaltoHumor: posts the ante 25
+Realdyralei: posts small blind 100
+prizrak play: posts big blind 200
+*** HOLE CARDS ***
+Dealt to wisg33 [Jh Qc]
+wisg33: calls 200
+MaltoHumor: folds 
+Realdyralei: folds 
+prizrak play: checks 
+*** FLOP *** [4s Ac Kd]
+prizrak play: checks 
+wisg33: bets 400
+prizrak play: folds 
+Uncalled bet (400) returned to wisg33
+wisg33 collected 600 from pot
+wisg33: doesn't show hand 
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Board [4s Ac Kd]
+Seat 1: Realdyralei (small blind) folded before Flop
+Seat 4: prizrak play (big blind) folded on the Flop
+Seat 5: wisg33 collected (600)
+Seat 9: MaltoHumor (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #161249838101: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level VII (100/200) - 2016/11/11 17:58:38 BRT [2016/11/11 14:58:38 ET]
+Table '1724073465 1' 9-max Seat #1 is the button
+Seat 1: Realdyralei (2117 in chips) 
+Seat 4: prizrak play (6519 in chips) 
+Seat 5: wisg33 (2885 in chips) 
+Seat 9: MaltoHumor (1979 in chips) 
+Realdyralei: posts the ante 25
+prizrak play: posts the ante 25
+wisg33: posts the ante 25
+MaltoHumor: posts the ante 25
+prizrak play: posts small blind 100
+wisg33: posts big blind 200
+*** HOLE CARDS ***
+Dealt to wisg33 [2h 9s]
+MaltoHumor: folds 
+Realdyralei: folds 
+prizrak play: folds 
+Uncalled bet (100) returned to wisg33
+wisg33 collected 300 from pot
+wisg33: doesn't show hand 
+*** SUMMARY ***
+Total pot 300 | Rake 0 
+Seat 1: Realdyralei (button) folded before Flop (didn't bet)
+Seat 4: prizrak play (small blind) folded before Flop
+Seat 5: wisg33 (big blind) collected (300)
+Seat 9: MaltoHumor folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #161249846730: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level VII (100/200) - 2016/11/11 17:58:50 BRT [2016/11/11 14:58:50 ET]
+Table '1724073465 1' 9-max Seat #4 is the button
+Seat 1: Realdyralei (2092 in chips) 
+Seat 4: prizrak play (6394 in chips) 
+Seat 5: wisg33 (3060 in chips) 
+Seat 9: MaltoHumor (1954 in chips) 
+Realdyralei: posts the ante 25
+prizrak play: posts the ante 25
+wisg33: posts the ante 25
+MaltoHumor: posts the ante 25
+wisg33: posts small blind 100
+MaltoHumor: posts big blind 200
+*** HOLE CARDS ***
+Dealt to wisg33 [3c 2h]
+Realdyralei: folds 
+prizrak play: calls 200
+wisg33: folds 
+MaltoHumor: checks 
+*** FLOP *** [Ad 4d Kh]
+MaltoHumor: checks 
+prizrak play: checks 
+*** TURN *** [Ad 4d Kh] [6c]
+MaltoHumor: checks 
+prizrak play: checks 
+*** RIVER *** [Ad 4d Kh 6c] [8c]
+MaltoHumor: checks 
+prizrak play: checks 
+*** SHOW DOWN ***
+MaltoHumor: shows [8d Js] (a pair of Eights)
+prizrak play: mucks hand 
+MaltoHumor collected 600 from pot
+*** SUMMARY ***
+Total pot 600 | Rake 0 
+Board [Ad 4d Kh 6c 8c]
+Seat 1: Realdyralei folded before Flop (didn't bet)
+Seat 4: prizrak play (button) mucked [7h 6d]
+Seat 5: wisg33 (small blind) folded before Flop
+Seat 9: MaltoHumor (big blind) showed [8d Js] and won (600) with a pair of Eights
+
+
+
+PokerStars Hand #161249870910: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level VII (100/200) - 2016/11/11 17:59:26 BRT [2016/11/11 14:59:26 ET]
+Table '1724073465 1' 9-max Seat #5 is the button
+Seat 1: Realdyralei (2067 in chips) 
+Seat 4: prizrak play (6169 in chips) 
+Seat 5: wisg33 (2935 in chips) 
+Seat 9: MaltoHumor (2329 in chips) 
+Realdyralei: posts the ante 25
+prizrak play: posts the ante 25
+wisg33: posts the ante 25
+MaltoHumor: posts the ante 25
+MaltoHumor: posts small blind 100
+Realdyralei: posts big blind 200
+*** HOLE CARDS ***
+Dealt to wisg33 [As 9h]
+prizrak play: calls 200
+wisg33: calls 200
+MaltoHumor: folds 
+Realdyralei: checks 
+*** FLOP *** [2c 7d 3h]
+Realdyralei: checks 
+prizrak play: bets 200
+wisg33: calls 200
+Realdyralei: folds 
+*** TURN *** [2c 7d 3h] [6s]
+prizrak play: checks 
+wisg33: checks 
+*** RIVER *** [2c 7d 3h 6s] [7h]
+prizrak play: bets 600
+wisg33: folds 
+Uncalled bet (600) returned to prizrak play
+prizrak play collected 1200 from pot
+prizrak play: doesn't show hand 
+*** SUMMARY ***
+Total pot 1200 | Rake 0 
+Board [2c 7d 3h 6s 7h]
+Seat 1: Realdyralei (big blind) folded on the Flop
+Seat 4: prizrak play collected (1200)
+Seat 5: wisg33 (button) folded on the River
+Seat 9: MaltoHumor (small blind) folded before Flop
+
+
+
+PokerStars Hand #161249909910: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level VIII (150/300) - 2016/11/11 18:00:22 BRT [2016/11/11 15:00:22 ET]
+Table '1724073465 1' 9-max Seat #9 is the button
+Seat 1: Realdyralei (1842 in chips) 
+Seat 4: prizrak play (6944 in chips) 
+Seat 5: wisg33 (2510 in chips) 
+Seat 9: MaltoHumor (2204 in chips) 
+Realdyralei: posts the ante 25
+prizrak play: posts the ante 25
+wisg33: posts the ante 25
+MaltoHumor: posts the ante 25
+Realdyralei: posts small blind 150
+prizrak play: posts big blind 300
+*** HOLE CARDS ***
+Dealt to wisg33 [7c Qc]
+wisg33: folds 
+MaltoHumor: folds 
+Realdyralei: raises 1517 to 1817 and is all-in
+prizrak play: folds 
+Uncalled bet (1517) returned to Realdyralei
+Realdyralei collected 700 from pot
+Realdyralei: doesn't show hand 
+*** SUMMARY ***
+Total pot 700 | Rake 0 
+Seat 1: Realdyralei (small blind) collected (700)
+Seat 4: prizrak play (big blind) folded before Flop
+Seat 5: wisg33 folded before Flop (didn't bet)
+Seat 9: MaltoHumor (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #161249928480: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level VIII (150/300) - 2016/11/11 18:00:48 BRT [2016/11/11 15:00:48 ET]
+Table '1724073465 1' 9-max Seat #1 is the button
+Seat 1: Realdyralei (2217 in chips) 
+Seat 4: prizrak play (6619 in chips) 
+Seat 5: wisg33 (2485 in chips) 
+Seat 9: MaltoHumor (2179 in chips) 
+Realdyralei: posts the ante 25
+prizrak play: posts the ante 25
+wisg33: posts the ante 25
+MaltoHumor: posts the ante 25
+prizrak play: posts small blind 150
+wisg33: posts big blind 300
+*** HOLE CARDS ***
+Dealt to wisg33 [8c 7s]
+MaltoHumor: raises 1854 to 2154 and is all-in
+Realdyralei: folds 
+prizrak play: folds 
+wisg33: folds 
+Uncalled bet (1854) returned to MaltoHumor
+MaltoHumor collected 850 from pot
+MaltoHumor: doesn't show hand 
+*** SUMMARY ***
+Total pot 850 | Rake 0 
+Seat 1: Realdyralei (button) folded before Flop (didn't bet)
+Seat 4: prizrak play (small blind) folded before Flop
+Seat 5: wisg33 (big blind) folded before Flop
+Seat 9: MaltoHumor collected (850)
+
+
+
+PokerStars Hand #161249942578: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level VIII (150/300) - 2016/11/11 18:01:07 BRT [2016/11/11 15:01:07 ET]
+Table '1724073465 1' 9-max Seat #4 is the button
+Seat 1: Realdyralei (2192 in chips) 
+Seat 4: prizrak play (6444 in chips) 
+Seat 5: wisg33 (2160 in chips) 
+Seat 9: MaltoHumor (2704 in chips) 
+Realdyralei: posts the ante 25
+prizrak play: posts the ante 25
+wisg33: posts the ante 25
+MaltoHumor: posts the ante 25
+wisg33: posts small blind 150
+MaltoHumor: posts big blind 300
+*** HOLE CARDS ***
+Dealt to wisg33 [7h Jd]
+Realdyralei: folds 
+prizrak play: folds 
+wisg33: folds 
+Uncalled bet (150) returned to MaltoHumor
+MaltoHumor collected 400 from pot
+MaltoHumor: doesn't show hand 
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Seat 1: Realdyralei folded before Flop (didn't bet)
+Seat 4: prizrak play (button) folded before Flop (didn't bet)
+Seat 5: wisg33 (small blind) folded before Flop
+Seat 9: MaltoHumor (big blind) collected (400)
+
+
+
+PokerStars Hand #161249951299: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level VIII (150/300) - 2016/11/11 18:01:18 BRT [2016/11/11 15:01:18 ET]
+Table '1724073465 1' 9-max Seat #5 is the button
+Seat 1: Realdyralei (2167 in chips) 
+Seat 4: prizrak play (6419 in chips) 
+Seat 5: wisg33 (1985 in chips) 
+Seat 9: MaltoHumor (2929 in chips) 
+Realdyralei: posts the ante 25
+prizrak play: posts the ante 25
+wisg33: posts the ante 25
+MaltoHumor: posts the ante 25
+MaltoHumor: posts small blind 150
+Realdyralei: posts big blind 300
+*** HOLE CARDS ***
+Dealt to wisg33 [Jh 9d]
+prizrak play: folds 
+wisg33: folds 
+MaltoHumor: folds 
+Uncalled bet (150) returned to Realdyralei
+Realdyralei collected 400 from pot
+Realdyralei: doesn't show hand 
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Seat 1: Realdyralei (big blind) collected (400)
+Seat 4: prizrak play folded before Flop (didn't bet)
+Seat 5: wisg33 (button) folded before Flop (didn't bet)
+Seat 9: MaltoHumor (small blind) folded before Flop
+
+
+
+PokerStars Hand #161249961191: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level VIII (150/300) - 2016/11/11 18:01:30 BRT [2016/11/11 15:01:30 ET]
+Table '1724073465 1' 9-max Seat #9 is the button
+Seat 1: Realdyralei (2392 in chips) 
+Seat 4: prizrak play (6394 in chips) 
+Seat 5: wisg33 (1960 in chips) 
+Seat 9: MaltoHumor (2754 in chips) 
+Realdyralei: posts the ante 25
+prizrak play: posts the ante 25
+wisg33: posts the ante 25
+MaltoHumor: posts the ante 25
+Realdyralei: posts small blind 150
+prizrak play: posts big blind 300
+*** HOLE CARDS ***
+Dealt to wisg33 [Tc 3h]
+wisg33: folds 
+MaltoHumor: folds 
+Realdyralei: raises 2067 to 2367 and is all-in
+prizrak play: folds 
+Uncalled bet (2067) returned to Realdyralei
+Realdyralei collected 700 from pot
+Realdyralei: doesn't show hand 
+*** SUMMARY ***
+Total pot 700 | Rake 0 
+Seat 1: Realdyralei (small blind) collected (700)
+Seat 4: prizrak play (big blind) folded before Flop
+Seat 5: wisg33 folded before Flop (didn't bet)
+Seat 9: MaltoHumor (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #161249972597: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level VIII (150/300) - 2016/11/11 18:01:44 BRT [2016/11/11 15:01:44 ET]
+Table '1724073465 1' 9-max Seat #1 is the button
+Seat 1: Realdyralei (2767 in chips) 
+Seat 4: prizrak play (6069 in chips) 
+Seat 5: wisg33 (1935 in chips) 
+Seat 9: MaltoHumor (2729 in chips) 
+Realdyralei: posts the ante 25
+prizrak play: posts the ante 25
+wisg33: posts the ante 25
+MaltoHumor: posts the ante 25
+prizrak play: posts small blind 150
+wisg33: posts big blind 300
+*** HOLE CARDS ***
+Dealt to wisg33 [Jd 4d]
+MaltoHumor: folds 
+Realdyralei: raises 2442 to 2742 and is all-in
+prizrak play: folds 
+wisg33: folds 
+Uncalled bet (2442) returned to Realdyralei
+Realdyralei collected 850 from pot
+Realdyralei: doesn't show hand 
+*** SUMMARY ***
+Total pot 850 | Rake 0 
+Seat 1: Realdyralei (button) collected (850)
+Seat 4: prizrak play (small blind) folded before Flop
+Seat 5: wisg33 (big blind) folded before Flop
+Seat 9: MaltoHumor folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #161249981433: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level VIII (150/300) - 2016/11/11 18:01:55 BRT [2016/11/11 15:01:55 ET]
+Table '1724073465 1' 9-max Seat #4 is the button
+Seat 1: Realdyralei (3292 in chips) 
+Seat 4: prizrak play (5894 in chips) 
+Seat 5: wisg33 (1610 in chips) 
+Seat 9: MaltoHumor (2704 in chips) 
+Realdyralei: posts the ante 25
+prizrak play: posts the ante 25
+wisg33: posts the ante 25
+MaltoHumor: posts the ante 25
+wisg33: posts small blind 150
+MaltoHumor: posts big blind 300
+*** HOLE CARDS ***
+Dealt to wisg33 [Qd 4s]
+Realdyralei: folds 
+prizrak play: raises 300 to 600
+wisg33: folds 
+MaltoHumor: folds 
+Uncalled bet (300) returned to prizrak play
+prizrak play collected 850 from pot
+prizrak play: doesn't show hand 
+*** SUMMARY ***
+Total pot 850 | Rake 0 
+Seat 1: Realdyralei folded before Flop (didn't bet)
+Seat 4: prizrak play (button) collected (850)
+Seat 5: wisg33 (small blind) folded before Flop
+Seat 9: MaltoHumor (big blind) folded before Flop
+
+
+
+PokerStars Hand #161249993727: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level VIII (150/300) - 2016/11/11 18:02:09 BRT [2016/11/11 15:02:09 ET]
+Table '1724073465 1' 9-max Seat #5 is the button
+Seat 1: Realdyralei (3267 in chips) 
+Seat 4: prizrak play (6419 in chips) 
+Seat 5: wisg33 (1435 in chips) 
+Seat 9: MaltoHumor (2379 in chips) 
+Realdyralei: posts the ante 25
+prizrak play: posts the ante 25
+wisg33: posts the ante 25
+MaltoHumor: posts the ante 25
+MaltoHumor: posts small blind 150
+Realdyralei: posts big blind 300
+*** HOLE CARDS ***
+Dealt to wisg33 [8c Qd]
+prizrak play: folds 
+wisg33: folds 
+MaltoHumor: folds 
+Uncalled bet (150) returned to Realdyralei
+Realdyralei collected 400 from pot
+Realdyralei: doesn't show hand 
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Seat 1: Realdyralei (big blind) collected (400)
+Seat 4: prizrak play folded before Flop (didn't bet)
+Seat 5: wisg33 (button) folded before Flop (didn't bet)
+Seat 9: MaltoHumor (small blind) folded before Flop
+
+
+
+PokerStars Hand #161250000900: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level VIII (150/300) - 2016/11/11 18:02:18 BRT [2016/11/11 15:02:18 ET]
+Table '1724073465 1' 9-max Seat #9 is the button
+Seat 1: Realdyralei (3492 in chips) 
+Seat 4: prizrak play (6394 in chips) 
+Seat 5: wisg33 (1410 in chips) 
+Seat 9: MaltoHumor (2204 in chips) 
+Realdyralei: posts the ante 25
+prizrak play: posts the ante 25
+wisg33: posts the ante 25
+MaltoHumor: posts the ante 25
+Realdyralei: posts small blind 150
+prizrak play: posts big blind 300
+*** HOLE CARDS ***
+Dealt to wisg33 [Qh 8c]
+wisg33: folds 
+MaltoHumor: folds 
+Realdyralei: folds 
+Uncalled bet (150) returned to prizrak play
+prizrak play collected 400 from pot
+prizrak play: doesn't show hand 
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Seat 1: Realdyralei (small blind) folded before Flop
+Seat 4: prizrak play (big blind) collected (400)
+Seat 5: wisg33 folded before Flop (didn't bet)
+Seat 9: MaltoHumor (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #161250008561: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level VIII (150/300) - 2016/11/11 18:02:28 BRT [2016/11/11 15:02:28 ET]
+Table '1724073465 1' 9-max Seat #1 is the button
+Seat 1: Realdyralei (3317 in chips) 
+Seat 4: prizrak play (6619 in chips) 
+Seat 5: wisg33 (1385 in chips) 
+Seat 9: MaltoHumor (2179 in chips) 
+Realdyralei: posts the ante 25
+prizrak play: posts the ante 25
+wisg33: posts the ante 25
+MaltoHumor: posts the ante 25
+prizrak play: posts small blind 150
+wisg33: posts big blind 300
+*** HOLE CARDS ***
+Dealt to wisg33 [6s 3h]
+MaltoHumor: folds 
+Realdyralei: raises 2992 to 3292 and is all-in
+prizrak play: folds 
+wisg33: folds 
+Uncalled bet (2992) returned to Realdyralei
+Realdyralei collected 850 from pot
+Realdyralei: doesn't show hand 
+*** SUMMARY ***
+Total pot 850 | Rake 0 
+Seat 1: Realdyralei (button) collected (850)
+Seat 4: prizrak play (small blind) folded before Flop
+Seat 5: wisg33 (big blind) folded before Flop
+Seat 9: MaltoHumor folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #161250019599: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level VIII (150/300) - 2016/11/11 18:02:40 BRT [2016/11/11 15:02:40 ET]
+Table '1724073465 1' 9-max Seat #4 is the button
+Seat 1: Realdyralei (3842 in chips) 
+Seat 4: prizrak play (6444 in chips) 
+Seat 5: wisg33 (1060 in chips) 
+Seat 9: MaltoHumor (2154 in chips) 
+Realdyralei: posts the ante 25
+prizrak play: posts the ante 25
+wisg33: posts the ante 25
+MaltoHumor: posts the ante 25
+wisg33: posts small blind 150
+MaltoHumor: posts big blind 300
+*** HOLE CARDS ***
+Dealt to wisg33 [9s 7d]
+Realdyralei: folds 
+prizrak play: folds 
+wisg33: folds 
+Uncalled bet (150) returned to MaltoHumor
+MaltoHumor collected 400 from pot
+MaltoHumor: doesn't show hand 
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Seat 1: Realdyralei folded before Flop (didn't bet)
+Seat 4: prizrak play (button) folded before Flop (didn't bet)
+Seat 5: wisg33 (small blind) folded before Flop
+Seat 9: MaltoHumor (big blind) collected (400)
+
+
+
+PokerStars Hand #161250028791: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level VIII (150/300) - 2016/11/11 18:02:50 BRT [2016/11/11 15:02:50 ET]
+Table '1724073465 1' 9-max Seat #5 is the button
+Seat 1: Realdyralei (3817 in chips) 
+Seat 4: prizrak play (6419 in chips) 
+Seat 5: wisg33 (885 in chips) 
+Seat 9: MaltoHumor (2379 in chips) 
+Realdyralei: posts the ante 25
+prizrak play: posts the ante 25
+wisg33: posts the ante 25
+MaltoHumor: posts the ante 25
+MaltoHumor: posts small blind 150
+Realdyralei: posts big blind 300
+*** HOLE CARDS ***
+Dealt to wisg33 [8c Qh]
+prizrak play: folds 
+wisg33: raises 560 to 860 and is all-in
+MaltoHumor: folds 
+Realdyralei: folds 
+Uncalled bet (560) returned to wisg33
+wisg33 collected 850 from pot
+wisg33: doesn't show hand 
+*** SUMMARY ***
+Total pot 850 | Rake 0 
+Seat 1: Realdyralei (big blind) folded before Flop
+Seat 4: prizrak play folded before Flop (didn't bet)
+Seat 5: wisg33 (button) collected (850)
+Seat 9: MaltoHumor (small blind) folded before Flop
+
+
+
+PokerStars Hand #161250039313: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level VIII (150/300) - 2016/11/11 18:03:03 BRT [2016/11/11 15:03:03 ET]
+Table '1724073465 1' 9-max Seat #9 is the button
+Seat 1: Realdyralei (3492 in chips) 
+Seat 4: prizrak play (6394 in chips) 
+Seat 5: wisg33 (1410 in chips) 
+Seat 9: MaltoHumor (2204 in chips) 
+Realdyralei: posts the ante 25
+prizrak play: posts the ante 25
+wisg33: posts the ante 25
+MaltoHumor: posts the ante 25
+Realdyralei: posts small blind 150
+prizrak play: posts big blind 300
+*** HOLE CARDS ***
+Dealt to wisg33 [8h Qc]
+wisg33: folds 
+MaltoHumor: folds 
+Realdyralei: folds 
+Uncalled bet (150) returned to prizrak play
+prizrak play collected 400 from pot
+prizrak play: doesn't show hand 
+*** SUMMARY ***
+Total pot 400 | Rake 0 
+Seat 1: Realdyralei (small blind) folded before Flop
+Seat 4: prizrak play (big blind) collected (400)
+Seat 5: wisg33 folded before Flop (didn't bet)
+Seat 9: MaltoHumor (button) folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #161250046047: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level VIII (150/300) - 2016/11/11 18:03:10 BRT [2016/11/11 15:03:10 ET]
+Table '1724073465 1' 9-max Seat #1 is the button
+Seat 1: Realdyralei (3317 in chips) 
+Seat 4: prizrak play (6619 in chips) 
+Seat 5: wisg33 (1385 in chips) 
+Seat 9: MaltoHumor (2179 in chips) 
+Realdyralei: posts the ante 25
+prizrak play: posts the ante 25
+wisg33: posts the ante 25
+MaltoHumor: posts the ante 25
+prizrak play: posts small blind 150
+wisg33: posts big blind 300
+*** HOLE CARDS ***
+Dealt to wisg33 [4d Jh]
+MaltoHumor: folds 
+Realdyralei: folds 
+prizrak play: raises 300 to 600
+wisg33: folds 
+Uncalled bet (300) returned to prizrak play
+prizrak play collected 700 from pot
+prizrak play: doesn't show hand 
+*** SUMMARY ***
+Total pot 700 | Rake 0 
+Seat 1: Realdyralei (button) folded before Flop (didn't bet)
+Seat 4: prizrak play (small blind) collected (700)
+Seat 5: wisg33 (big blind) folded before Flop
+Seat 9: MaltoHumor folded before Flop (didn't bet)
+
+
+
+PokerStars Hand #161250055428: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level VIII (150/300) - 2016/11/11 18:03:21 BRT [2016/11/11 15:03:21 ET]
+Table '1724073465 1' 9-max Seat #4 is the button
+Seat 1: Realdyralei (3292 in chips) 
+Seat 4: prizrak play (6994 in chips) 
+Seat 5: wisg33 (1060 in chips) 
+Seat 9: MaltoHumor (2154 in chips) 
+Realdyralei: posts the ante 25
+prizrak play: posts the ante 25
+wisg33: posts the ante 25
+MaltoHumor: posts the ante 25
+wisg33: posts small blind 150
+MaltoHumor: posts big blind 300
+*** HOLE CARDS ***
+Dealt to wisg33 [5s 4c]
+Realdyralei: folds 
+prizrak play: raises 300 to 600
+wisg33: folds 
+MaltoHumor: folds 
+Uncalled bet (300) returned to prizrak play
+prizrak play collected 850 from pot
+prizrak play: doesn't show hand 
+*** SUMMARY ***
+Total pot 850 | Rake 0 
+Seat 1: Realdyralei folded before Flop (didn't bet)
+Seat 4: prizrak play (button) collected (850)
+Seat 5: wisg33 (small blind) folded before Flop
+Seat 9: MaltoHumor (big blind) folded before Flop
+
+
+
+PokerStars Hand #161250066321: Tournament #1724073465, $0.44+$0.06 USD Hold'em No Limit - Level VIII (150/300) - 2016/11/11 18:03:34 BRT [2016/11/11 15:03:34 ET]
+Table '1724073465 1' 9-max Seat #5 is the button
+Seat 1: Realdyralei (3267 in chips) 
+Seat 4: prizrak play (7519 in chips) 
+Seat 5: wisg33 (885 in chips) 
+Seat 9: MaltoHumor (1829 in chips) 
+Realdyralei: posts the ante 25
+prizrak play: posts the ante 25
+wisg33: posts the ante 25
+MaltoHumor: posts the ante 25
+MaltoHumor: posts small blind 150
+Realdyralei: posts big blind 300
+*** HOLE CARDS ***
+Dealt to wisg33 [3c 3s]
+prizrak play: folds 
+wisg33: raises 560 to 860 and is all-in
+MaltoHumor: folds 
+Realdyralei: calls 560
+*** FLOP *** [Qc 2c Jh]
+*** TURN *** [Qc 2c Jh] [9c]
+*** RIVER *** [Qc 2c Jh 9c] [9s]
+*** SHOW DOWN ***
+Realdyralei: shows [Js Ts] (two pair, Jacks and Nines)
+wisg33: shows [3c 3s] (two pair, Nines and Threes)
+Realdyralei collected 1970 from pot
+wisg33 finished the tournament in 4th place
+*** SUMMARY ***
+Total pot 1970 | Rake 0 
+Board [Qc 2c Jh 9c 9s]
+Seat 1: Realdyralei (big blind) showed [Js Ts] and won (1970) with two pair, Jacks and Nines
+Seat 4: prizrak play folded before Flop (didn't bet)
+Seat 5: wisg33 (button) showed [3c 3s] and lost with two pair, Nines and Threes
+Seat 9: MaltoHumor (small blind) folded before Flop
+
+
+
